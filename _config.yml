@@ -1,0 +1,13 @@
+# Site settings
+title: TROY
+email: rick0913@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    Go Trojans! We are from Troy University. 
+    Troy Alabama, USA. Zip: 36081
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://zhou-dong.github.io/" # the base hostname & protocol for your site
+twitter_username: dongdongflame
+github_username:  zhou-dong
+
+# Build settings
+markdown: kramdown

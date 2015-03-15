@@ -1,0 +1,44 @@
+.home-category-banner {
+    background-color: #333;
+    background: url(http://img.xianlvke.com/1000/4666_1920-1200.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.house-category-banner {
+    background-color: #333;
+    background: url(http://smashingtips.com/wp-content/uploads/2012/08/Spectacular-House-HD-Wallpaper.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.vacation-category-banner {
+    background-color: #333;
+    background: url(http://www.efenditravel.com/uploadedfiles/Dialysis-tours-Turkey-cappdocia.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.market-category-banner {
+    background-color: #333;
+    background: url(http://blogs-images.forbes.com/clareoconnor/files/2014/04/WalMart_Supercenter_Albany-e1397590194220.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.restaurant-category-banner {
+    background-color: #333;
+    background: url(http://rack.0.mshcdn.com/media/ZgkyMDEzLzAxLzIzLzhhL3Jlc3RhdXJhbnRmLmVmNTUzLmpwZwpwCXRodW1iCTEyMDB4NjI3IwplCWpwZw/8bf11603/610/restaurant-food.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
