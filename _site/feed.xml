@@ -6,8 +6,8 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Mar 2015 21:10:40 -0500</pubDate>
-    <lastBuildDate>Sun, 15 Mar 2015 21:10:40 -0500</lastBuildDate>
+    <pubDate>Sun, 15 Mar 2015 23:59:09 -0500</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2015 23:59:09 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -72,21 +72,27 @@
     &lt;!-- Three columns of text below the carousel --&gt;
     &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;col-lg-4&quot;&gt;
-            &lt;img class=&quot;img-circle&quot; src=&quot;http://www.japanworld.it/image/cache/data/test/33744-500x500.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 140px; height: 140px;&quot;&gt;
-                &lt;h2&gt;Heading&lt;/h2&gt;
-                &lt;p&gt;Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.&lt;/p&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;http://www.japanworld.it/image/cache/data/test/33744-500x500.jpg&quot; alt=&quot;zhong image&quot; style=&quot;width: 140px; height: 140px;&quot;&gt;
+                &lt;h2&gt;Dr Zhong&lt;/h2&gt;
+                &lt;p&gt;
+                    Dr zhong
+                &lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
         &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
         &lt;div class=&quot;col-lg-4&quot;&gt;
-            &lt;img class=&quot;img-circle&quot; src=&quot;http://www.japanworld.it/image/cache/data/test/33744-500x500.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 140px; height: 140px;&quot;&gt;
-                &lt;h2&gt;Heading&lt;/h2&gt;
-                &lt;p&gt;Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.&lt;/p&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;http://www.japanworld.it/image/cache/data/test/33744-500x500.jpg&quot; alt=&quot;mago image&quot; style=&quot;width: 140px; height: 140px;&quot;&gt;
+                &lt;h2&gt;Dr Mago&lt;/h2&gt;
+                &lt;p&gt;
+                    Dr Mago
+                &lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
         &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
         &lt;div class=&quot;col-lg-4&quot;&gt;
-            &lt;img class=&quot;img-circle&quot; src=&quot;http://www.japanworld.it/image/cache/data/test/33744-500x500.jpg&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 140px; height: 140px;&quot;&gt;
-                &lt;h2&gt;Heading&lt;/h2&gt;
-                &lt;p&gt;Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+            &lt;img class=&quot;img-circle&quot; src=&quot;http://www.japanworld.it/image/cache/data/test/33744-500x500.jpg&quot; alt=&quot;kumar image&quot; style=&quot;width: 140px; height: 140px;&quot;&gt;
+                &lt;h2&gt;Dr Kumar&lt;/h2&gt;
+                &lt;p&gt;
+                    Dr Kumar
+                &lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
         &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
     &lt;/div&gt;&lt;!-- /.row --&gt;
@@ -97,12 +103,39 @@
     &lt;hr class=&quot;featurette-divider&quot;&gt;
     
     &lt;div class=&quot;row featurette&quot;&gt;
+        &lt;div class=&quot;col-md-5&quot;&gt;
+            &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://www.cs.mcgill.ca/static/img/area/probabilistic_analysis_of_algorithms.jpg&quot; alt=&quot;cs5549&quot;&gt;
+        &lt;/div&gt;
         &lt;div class=&quot;col-md-7&quot;&gt;
-            &lt;h2 class=&quot;featurette-heading&quot;&gt;Computer Science &lt;span class=&quot;text-muted&quot;&gt;We are cool.&lt;/span&gt;&lt;/h2&gt;
-            &lt;p class=&quot;lead&quot;&gt;artificial intelligence, Machine Learning, Database, Distributed system and so on...&lt;/p&gt;
+            &lt;h2 class=&quot;featurette-heading&quot;&gt;Analysis of Algorithms&lt;/h2&gt;
+            &lt;h3&gt;CS3329/CS5549-TBAA&lt;/h3&gt;
+            &lt;p class=&quot;lead&quot;&gt;
+            This course will provide a rigorous introduction to the design and analysis of algorithms.
+            We will discuss classic problems (e.g., sorting, traveling salesman problem),
+            classic algorithm design strategies (e.g., divide-and-conquer, greedy approaches),
+            and classic algorithms and data structures (e.g., hash tables, Dijkstra&#39;s algorithm).
+            We will also analyze algorithm complexity throughout, and touch on issues of tractability such as &quot;NP-Completeness&quot;.
+            &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;hr class=&quot;featurette-divider&quot;&gt;
+
+    &lt;div class=&quot;row featurette&quot;&gt;
+        &lt;div class=&quot;col-md-7&quot;&gt;
+            &lt;h2 class=&quot;featurette-heading&quot;&gt;Bioinformatics Algorithm &lt;/h2&gt;
+            &lt;h3&gt;Speical Topics CS6649-TXAD&lt;/h3&gt;
+            &lt;p class=&quot;lead&quot;&gt;
+            This course will introduce students to bioinformatics - the area concerning the development and
+            application of computational methods to address key problem in biology. It will introduce the students
+            to a variety of methods and skills required to conduct research in this highly rising field. The emphasis
+            of the course is structural bioinformatics with focus on various computational methods to simulate, 
+            analyze and model protein structure, dynamics and function. Other subjects such as systems biology,
+            genomics and interaction networks will be introduced as well.
+            &lt;/p&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-5&quot;&gt;
-            &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://www.japanworld.it/image/cache/data/test/33744-500x500.jpg&quot; alt=&quot;computer science&quot;&gt;
+            &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://www.rcsb.org/pdb/images/4ldb_bio_r_500.jpg&quot; alt=&quot;cs6649&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
@@ -110,28 +143,22 @@
     
     &lt;div class=&quot;row featurette&quot;&gt;
         &lt;div class=&quot;col-md-5&quot;&gt;
-            &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://www.japanworld.it/image/cache/data/test/33744-500x500.jpg&quot; alt=&quot;Generic placeholder image&quot;&gt;
+            &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://img.scoop.it/8HmioY7oPrQD1ZIh6jINQzl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9&quot; alt=&quot;cs6649&quot;&gt;
         &lt;/div&gt;
         &lt;div class=&quot;col-md-7&quot;&gt;
-            &lt;h2 class=&quot;featurette-heading&quot;&gt;International &lt;span class=&quot;text-muted&quot;&gt;See for yourself.&lt;/span&gt;&lt;/h2&gt;
-            &lt;p class=&quot;lead&quot;&gt;Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;hr class=&quot;featurette-divider&quot;&gt;
-    
-    &lt;div class=&quot;row featurette&quot;&gt;
-        &lt;div class=&quot;col-md-7&quot;&gt;
-            &lt;h2 class=&quot;featurette-heading&quot;&gt;Troy Campus&lt;span class=&quot;text-muted&quot;&gt;Checkmate.&lt;/span&gt;&lt;/h2&gt;
-            &lt;p class=&quot;lead&quot;&gt;Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-md-5&quot;&gt;
-            &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://www.japanworld.it/image/cache/data/test/33744-500x500.jpg&quot; alt=&quot;Generic placeholder image&quot;&gt;
+            &lt;h2 class=&quot;featurette-heading&quot;&gt;Graphical Data Mining &lt;/h2&gt;
+            &lt;h3&gt;CS 6649-TXAA&lt;/h3&gt;
+            &lt;p class=&quot;lead&quot;&gt;
+            This course is a graduate-level course that provides practical knowledge to extract information from graphical data.
+            Graph mining covers many basic and advanced techniques for the identification of anomalous or frequently recurring 
+            patterns in a graph, the discovery of groups or clusters of nodes that share common patterns of attributes and relationships,
+            the extraction of patterns that distinguish one category of graphs from another, and the use f those patterns to predict the
+            category of new graphs. Algorithm will be implemented in R programming.
+            &lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     
     &lt;!-- /END THE FEATURETTES --&gt;
-    
     
 &lt;/div&gt;
 
