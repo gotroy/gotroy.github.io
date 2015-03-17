@@ -6,8 +6,8 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Mar 2015 23:59:09 -0500</pubDate>
-    <lastBuildDate>Sun, 15 Mar 2015 23:59:09 -0500</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2015 19:07:57 -0500</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2015 19:07:57 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -21,7 +21,7 @@
     &lt;/ol&gt;
     &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
         &lt;div class=&quot;item active&quot;&gt;
-            &lt;img src=&quot;http://admissions.troy.edu/assets/images/student-troyfan.jpg&quot; alt=&quot;Troy fans&quot;&gt;
+            &lt;img src=&quot;http://p1.pichost.me/i/36/1591248.jpg&quot; alt=&quot;Troy fans&quot;&gt;
                 &lt;div class=&quot;container&quot;&gt;
                     &lt;div class=&quot;carousel-caption&quot;&gt;
                         &lt;!--
@@ -32,9 +32,10 @@
                 &lt;/div&gt;
                 &lt;/div&gt;
         &lt;div class=&quot;item&quot;&gt;
-            &lt;img src=&quot;http://admissions.troy.edu/assets/images/student-troy.jpg&quot; alt=&quot;troy fans&quot;&gt;
+            &lt;img src=&quot;http://cdn01.wallconvert.com/_media/conv/1/10/99343-iron-man-2.jpg&quot; alt=&quot;troy fans&quot;&gt;
                 &lt;div class=&quot;container&quot;&gt;
                     &lt;div class=&quot;carousel-caption&quot;&gt;
+                        &lt;p&gt;&lt;code&gt;&quot;Hello world!&quot; &lt;/code&gt;&lt;/p&gt;
                         &lt;!--
                         &lt;p&gt;Troy fans&lt;/p&gt;
                         &lt;p&gt;&lt;a class=&quot;btn btn-lg btn-primary&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;Learn more&lt;/a&gt;&lt;/p&gt;
@@ -43,10 +44,9 @@
                 &lt;/div&gt;
                 &lt;/div&gt;
         &lt;div class=&quot;item&quot;&gt;
-            &lt;img src=&quot;http://admissions.troy.edu/assets/images/student-fans.jpg&quot; alt=&quot;troy fans&quot;&gt;
+            &lt;img src=&quot;http://mycolorscreen.com/wp-content/uploads/wallpapers_2012/336166/dark-iron-man.jpg&quot; alt=&quot;troy fans&quot;&gt;
                 &lt;div class=&quot;container&quot;&gt;
                     &lt;div class=&quot;carousel-caption&quot;&gt;
-                        &lt;p&gt;&lt;code&gt;print &quot;Hello world!&quot; &lt;/code&gt;&lt;/p&gt;
                         &lt;!--
                         &lt;h1&gt;lovely fan&lt;/h1&gt;
                         &lt;p&gt;&lt;a class=&quot;btn btn-lg btn-primary&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;Browse gallery&lt;/a&gt;&lt;/p&gt;
