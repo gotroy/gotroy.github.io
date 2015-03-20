@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Troy Alabama
-
+imgurl: https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1396036_10151742261294150_311572121_n.jpg?oh=33bcf482be303b2421700375c6a207e5&oe=55B19F28
 ---
 
 Population in 2013: 18,919 (86% urban, 14% rural). Population change since 2000: +35.8%
