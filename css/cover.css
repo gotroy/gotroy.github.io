@@ -29,11 +29,8 @@ html,
 body {
   height: 100%;
     background-color: #333;
-   background: url(http://img.xianlvke.com/1000/158_1280-1024.jpg) no-repeat center center fixed; 
-   /*background: url(https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/1502214_1015267076410$9150_12710334127754425_o.jpg) no-repeat center center fixed;*/
-   /* background: url(https://scontent-lga.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/s720x720/1526179_10152151768174150_3065469431598440846_n.jpg?oh=d9091f12713397f094d08604feb7b586&oe=55B26172) no-repeat center center fixed;*/ 
-    /* background: url(https://scontent.xx.fbcdn.net/hphotos-xfp1/t31.0-8/1398843_10152312539399150_8222132369548489282_o.jpg) no-repeat center center fixed;*/ 
-    /* background: url(https://scontent.xx.fbcdn.net/hphotos-xpf1/t31.0-8/1397513_10151742261294150_311572121_o.jpg) no-repeat center center fixed;*/ 
+   /* background: url(http://img.xianlvke.com/1000/158_1280-1024.jpg) no-repeat center center fixed;  */
+   background: url(https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/405615_10151290678734150_1185291563_n.jpg?oh=a6e1ccad119bf5646e135c1a0ca49609&oe=55712552) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
