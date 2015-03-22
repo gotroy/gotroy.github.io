@@ -38,6 +38,8 @@ title:  Process to Get a Driver's License
 
 - NOTE: You must have 160 days left on your I-20 to get Driver's License or to renew it.
 
+- Bofore go to test, you can practise at [Practise Site]
+
 [U.S. Customs and Border Protection]: http://www.cbp.gov/travel/international-visitors/i-94-instructions
 
 ---
@@ -69,4 +71,9 @@ title:  Process to Get a Driver's License
 
 - 必须在I-20上的截止时间前160天以上才能考驾照或者是更新驾照。
 
+- 去机试以前，可以在[Practise Site]网站做练习。
+
+
 [ALABAMA DRIVER MANUAL]: http://dps.alabama.gov/Documents/Manuals/DriverLicenseManual.pdf
+
+[Practise Site]: http://driverslicensetest.net/dmv/alabama_drivers_test.php
