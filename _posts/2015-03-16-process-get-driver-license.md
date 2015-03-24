@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Process to Get a Driver's License
+imgurl: http://media.al.com/news_impact/photo/driver-licensejpg-f8404aa701d3c72d.jpg
 ---
 
 1. Get a letter from International Student Services (Letter expires in 30 days).
