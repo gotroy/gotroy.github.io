@@ -30,7 +30,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 <script>
     function initialize() {
         var mapOptions = {
-            zoom: 8,
+            zoom: 20,
             center: new google.maps.LatLng(31.7802283,-85.947737),
             mapTypeId: google.maps.MapTypeId.ROADMAP
         }
