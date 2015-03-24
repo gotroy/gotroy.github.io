@@ -229,7 +229,7 @@
         </div>
     </div>
 
-    <div style="width:50px; height:200px;">
+    <div style="width:250px; height:200px;">
         <div id="map_canvas" style="width:100%; height:100%"></div>
     </div>
 
@@ -240,13 +240,11 @@
 
 <script>
     function initialize() {
-        alert("123");
         var mapOptions = {
             zoom: 8,
             center: new google.maps.LatLng(-34.397, 150.644),
             mapTypeId: google.maps.MapTypeId.ROADMAP
         }
-        alert("test");
         var map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
     }
 </script>
