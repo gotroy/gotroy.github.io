@@ -231,14 +231,15 @@
 
 
 </div>
-    <div id="map_canvas" style="width:100%; height:100%"></div>
+
+
+<div id="map_canvas" style="width:100%; height:100%"></div>
 
 <script type="text/javascript"
           src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCCVaYry5FB7LNQyJIQt_gP-bsyzzG3YL8&sensor=FALSE">
 </script>
-<!--
+
 <img src="https://maps.googleapis.com/maps/api/staticmap?center=-15.800513,-47.91378&zoom=11&size=200x200">
--->
 
 <script>
     function initialize() {
@@ -247,6 +248,7 @@
             center: new google.maps.LatLng(-34.397, 150.644),
             mapTypeId: google.maps.MapTypeId.ROADMAP
         }
+        alert("map-canvas");
         var map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
     }
 
