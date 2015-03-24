@@ -31,7 +31,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
     function initialize() {
         var mapOptions = {
             zoom: 8,
-            center: new google.maps.LatLng(-34.397, 150.644),
+            center: new google.maps.LatLng(31.7802283,-85.947737),
             mapTypeId: google.maps.MapTypeId.ROADMAP
         }
         var map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
