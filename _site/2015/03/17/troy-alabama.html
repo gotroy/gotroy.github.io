@@ -97,20 +97,16 @@
       <div class="wrapper">
         <div class="container">
 
-  <!--
-  <h3 style="text-align: center;" class="post-title">Troy Alabama</h3>
-  -->
+    <div>
+        <h3 class="post-title">Troy Alabama</h3>
+    </div>
 
-  <div>
-    <h3 class="post-title">Troy Alabama</h3>
-  </div>
+    <div class="post-main-banner">
+        <img  src="https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1396036_10151742261294150_311572121_n.jpg?oh=33bcf482be303b2421700375c6a207e5&oe=55B19F28">
+    </div>
 
-  <div class="post-main-banner">
-      <img  src="https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1396036_10151742261294150_311572121_n.jpg?oh=33bcf482be303b2421700375c6a207e5&oe=55B19F28">
-  </div>
-
-  <article class="post-content">
-    <p>Population in 2013: 18,919 (86% urban, 14% rural). Population change since 2000: +35.8%</p>
+    <article class="post-content">
+        <p>Population in 2013: 18,919 (86% urban, 14% rural). Population change since 2000: +35.8%</p>
 
 <ul>
   <li>Males: 8,683     (45.9%)</li>
@@ -216,29 +212,19 @@
 </ul>
 
 
-  </article>
+    </article>
 
+    <!-- disqus display-->
     <div id="disqus_thread"></div>
 
 </div>
 
-<!-- comments by disqus -->
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */ 
-    var disqus_shortname = 'gotroy';
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() { 
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
       </div>
     </div>
 
     <hr>
+
 <footer class="footer">
     <div class="container">
         <p class="pull-right">
@@ -247,8 +233,10 @@
         <p class="text-muted">© TROY 2015</p>
     </div>
 </footer>
+
 <script src="/js/jquery-2.1.3.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
+
 <!-- google analytics-->
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -258,8 +246,8 @@
     ga('create', 'UA-60897821-1', 'auto');
     ga('send', 'pageview');
 </script>
+
 <!-- comments by disqus -->
-<!--
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'gotroy';
@@ -271,24 +259,17 @@
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
--->
+
 <!--google map api-->
-<!--
-<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-<script src="http://maps.googleapis.com/maps/api/js?client=588977788168-7hbi2l6cqeg63qjcgiqf5c6fe3mhvkc8.apps.googleusercontent.com&sensor=false&v=3.9"
-      type="text/javascript">
-</script>
-<script type="text/javascript">
-    function initialize() {
-        var mapOptions = {
-            center: new google.maps.LatLng(-34.397, 150.644),
-            zoom: 8,
-            mapTypeId: google.maps.MapTypeId.ROADMAP
-        };
-        var map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
+<script>
+    function loadScript() {
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        // script.src = "http://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&sensor=TRUE_OR_FALSE&callback=initialize";
+        script.src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCCVaYry5FB7LNQyJIQt_gP-bsyzzG3YL8&sensor=FALSE">
+        document.body.appendChild(script);
     }
 </script>
--->
 
 
   </body>
