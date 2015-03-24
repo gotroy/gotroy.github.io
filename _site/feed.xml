@@ -6,8 +6,8 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Mar 2015 00:42:45 -0500</pubDate>
-    <lastBuildDate>Tue, 24 Mar 2015 00:42:45 -0500</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2015 00:48:06 -0500</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2015 00:48:06 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -21,6 +21,10 @@
 &lt;div style=&quot;height:300px;&quot;&gt;
     &lt;div id=&quot;map_canvas&quot; style=&quot;width:100%; height:100%&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
+
+&lt;!--google map api--&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://maps.googleapis.com/maps/api/js?key=AIzaSyCCVaYry5FB7LNQyJIQt_gP-bsyzzG3YL8&amp;amp;sensor=FALSE&quot;&gt;
+&lt;/script&gt;
 
 &lt;script&gt;
     function initialize() {
