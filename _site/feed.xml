@@ -6,8 +6,8 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Mar 2015 11:28:27 -0500</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2015 11:28:27 -0500</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2015 11:44:59 -0500</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2015 11:44:59 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -19,23 +19,10 @@
 &lt;p&gt;The price is lower than our Dinnering Hall, but Dinnering Hall have more options than KFC.&lt;/p&gt;
 
 &lt;div style=&quot;height:300px;&quot;&gt;
-    &lt;div id=&quot;map_canvas&quot; style=&quot;width:100%; height:100%&quot;&gt;&lt;/div&gt;
+
+&lt;a action-type=&quot;56&quot; tabindex=&quot;0&quot; class=&quot;d-s Gl&quot; target=&quot;_blank&quot; href=&quot;//www.google.com/url?sa=D&amp;amp;oi=plus&amp;amp;q=https://www.google.com/maps/place/KFC/data%3D!4m2!3m1!1s0x888debec270a71af:0xc7d5cc2901889d0e?gl%3DUS%26hl%3Dzh-CN&quot;&gt;&lt;img width=&quot;476&quot; height=&quot;192&quot; class=&quot;Nlc&quot; src=&quot;//www.google.com/maps/vt/data=zra6UAvNNz4S8ah4scyI5nEFaI29p6ntPAElISbrpSF99XIwu285b_CjlQWqp-JbfDZrmmc0tTZPUg&quot; alt=&quot;店铺位置的地图&quot; /&gt;&lt;/a&gt;
+
 &lt;/div&gt;
-
-&lt;!--google map api--&gt;
-&lt;script type=&quot;text/javascript&quot; src=&quot;http://maps.googleapis.com/maps/api/js?key=AIzaSyCCVaYry5FB7LNQyJIQt_gP-bsyzzG3YL8&amp;amp;sensor=FALSE&quot;&gt;
-&lt;/script&gt;
-
-&lt;script&gt;
-    function initialize() {
-        var mapOptions = {
-            zoom: 18,
-            center: new google.maps.LatLng(31.7980000, -85.9823300),
-            mapTypeId: google.maps.MapTypeId.ROADMAP
-        }
-        var map = new google.maps.Map(document.getElementById(&quot;map_canvas&quot;), mapOptions);
-    }
-&lt;/script&gt;
 
 </description>
         <pubDate>Wed, 25 Mar 2015 00:00:00 -0500</pubDate>

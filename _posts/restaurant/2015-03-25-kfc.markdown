@@ -13,20 +13,8 @@ The price is lower than our Dinnering Hall, but Dinnering Hall have more options
 [KFC]: http://www.kfc.com/
 
 <div style="height:300px;">
-    <div id="map_canvas" style="width:100%; height:100%"></div>
+
+<a action-type="56" tabindex="0" class="d-s Gl" target="_blank" href="//www.google.com/url?sa=D&amp;oi=plus&amp;q=https://www.google.com/maps/place/KFC/data%3D!4m2!3m1!1s0x888debec270a71af:0xc7d5cc2901889d0e?gl%3DUS%26hl%3Dzh-CN"><img width="476" height="192" class="Nlc" src="//www.google.com/maps/vt/data=zra6UAvNNz4S8ah4scyI5nEFaI29p6ntPAElISbrpSF99XIwu285b_CjlQWqp-JbfDZrmmc0tTZPUg" alt="店铺位置的地图"></a>
+
 </div>
 
-<!--google map api-->
-<script type="text/javascript"
-    src = "http://maps.googleapis.com/maps/api/js?key=AIzaSyCCVaYry5FB7LNQyJIQt_gP-bsyzzG3YL8&sensor=FALSE">
-</script>
-<script>
-    function initialize() {
-        var mapOptions = {
-            zoom: 12,
-            center: new google.maps.LatLng(31.7980000, -85.9823300),
-            mapTypeId: google.maps.MapTypeId.ROADMAP
-        }
-        var map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
-    }
-</script>
