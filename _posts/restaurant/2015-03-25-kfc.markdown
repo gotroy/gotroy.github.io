@@ -1,0 +1,32 @@
+---
+layout: post
+title:  KFC
+imgurl: http://www.adweek.com/agencyspy/wp-content/uploads/sites/7/2015/02/KFC-logo.jpg
+---
+
+website: [KFC]
+
+They have buffet in lunch, price is $7.70 include tax. 
+
+The price is lower than our Dinnering Hall, but Dinnering Hall have more options than KFC.
+
+[KFC]: http://www.kfc.com/
+
+<div style="height:300px;">
+    <div id="map_canvas" style="width:100%; height:100%"></div>
+</div>
+
+<!--google map api-->
+<script type="text/javascript"
+    src = "http://maps.googleapis.com/maps/api/js?key=AIzaSyCCVaYry5FB7LNQyJIQt_gP-bsyzzG3YL8&sensor=FALSE">
+</script>
+<script>
+    function initialize() {
+        var mapOptions = {
+            zoom: 18,
+            center: new google.maps.LatLng(31.7980000, -85.9823300),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        var map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
+    }
+</script>
