@@ -23,7 +23,7 @@ The price is lower than our Dinnering Hall, but Dinnering Hall have more options
 <script>
     function initialize() {
         var mapOptions = {
-            zoom: 18,
+            zoom: 12,
             center: new google.maps.LatLng(31.7980000, -85.9823300),
             mapTypeId: google.maps.MapTypeId.ROADMAP
         }
