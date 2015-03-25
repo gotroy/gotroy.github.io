@@ -9,3 +9,8 @@
     width: 100%;
     border-radius: 6px;
 }
+
+.restaurant-list-img{
+    border-radius: 6px;
+    width: 300px;
+}
