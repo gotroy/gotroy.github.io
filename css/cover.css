@@ -29,8 +29,8 @@ html,
 body {
   height: 100%;
     background-color: #333;
-    /* background: url(http://img.xianlvke.com/1000/158_1280-1024.jpg) no-repeat center center fixed;*/
-    background: url(https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/405615_10151290678734150_1185291563_n.jpg?oh=a6e1ccad119bf5646e135c1a0ca49609&oe=55712552) no-repeat center center fixed;
+    background: url(https://scontent.xx.fbcdn.net/hphotos-xpa1/t31.0-8/1900624_10152539197649150_2678482372344649265_o.jpg) no-repeat center center fixed;
+    /* background: url(https://scontent.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/405615_10151290678734150_1185291563_n.jpg?oh=a6e1ccad119bf5646e135c1a0ca49609&oe=55712552) no-repeat center center fixed;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

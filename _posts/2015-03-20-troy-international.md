@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  International Students in Troy University
-imgurl: https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/10446276_10152523182409150_1620382555069025850_o.jpg
 ---
+
+<div class="post-main-banner">
+<img  src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/10446276_10152523182409150_1620382555069025850_o.jpg" width="100%" style="border-radius:6px;">
+</div>
 
 Troy University’s Center for International Programs is pleased to welcome all International Students whether you are a current student or thinking about coming to TROY. We offer a future of opportunities where we look forward to making your educational dreams come true. – WELCOME!
 

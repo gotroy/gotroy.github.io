@@ -6,8 +6,8 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Mar 2015 11:44:59 -0500</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2015 11:44:59 -0500</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2015 02:50:27 -0500</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2015 02:50:27 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -69,7 +69,11 @@
     
       <item>
         <title>International Students in Troy University</title>
-        <description>&lt;p&gt;Troy University’s Center for International Programs is pleased to welcome all International Students whether you are a current student or thinking about coming to TROY. We offer a future of opportunities where we look forward to making your educational dreams come true. – WELCOME!&lt;/p&gt;
+        <description>&lt;div class=&quot;post-main-banner&quot;&gt;
+&lt;img src=&quot;https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/10446276_10152523182409150_1620382555069025850_o.jpg&quot; width=&quot;100%&quot; style=&quot;border-radius:6px;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Troy University’s Center for International Programs is pleased to welcome all International Students whether you are a current student or thinking about coming to TROY. We offer a future of opportunities where we look forward to making your educational dreams come true. – WELCOME!&lt;/p&gt;
 
 &lt;h4 id=&quot;at-a-glance-of-troy-university&quot;&gt;At a Glance of Troy university&lt;/h4&gt;
 
@@ -169,7 +173,11 @@
     
       <item>
         <title>Troy Alabama</title>
-        <description>&lt;p&gt;Population in 2013: 18,919 (86% urban, 14% rural). Population change since 2000: +35.8%&lt;/p&gt;
+        <description>&lt;div class=&quot;post-main-banner&quot;&gt;
+&lt;img src=&quot;https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1396036_10151742261294150_311572121_n.jpg?oh=33bcf482be303b2421700375c6a207e5&amp;amp;oe=55B19F28&quot; width=&quot;100%&quot; style=&quot;border-radius:6px;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Population in 2013: 18,919 (86% urban, 14% rural). Population change since 2000: +35.8%&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Males: 8,683     (45.9%)&lt;/li&gt;
@@ -284,7 +292,9 @@
     
       <item>
         <title>Process to Get a Driver&#39;s License</title>
-        <description>&lt;ol&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://media.al.com/news_impact/photo/driver-licensejpg-f8404aa701d3c72d.jpg&quot; width=&quot;33%&quot; style=&quot;border-radius:10px;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Get a letter from International Student Services (Letter expires in 30 days).&lt;/p&gt;
   &lt;/li&gt;
