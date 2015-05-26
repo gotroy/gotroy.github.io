@@ -28,7 +28,7 @@
 
 .market-category-banner {
     background-color: #333;
-    background: url(http://blogs-images.forbes.com/clareoconnor/files/2014/04/WalMart_Supercenter_Albany-e1397590194220.jpg) no-repeat center center fixed; 
+    background: url(http://blogs-images.forbes.com/clareoconnor/files/2014/04/WalMart_Supercenter_Albany-e1397590194220.jpg) no-repeat center center scroll; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
