@@ -1,11 +1,70 @@
 .home-category-banner {
     background-color: #333;
-    background: url(https://scontent.xx.fbcdn.net/hphotos-xpf1/t31.0-8/1397513_10151742261294150_311572121_o.jpg) no-repeat center center fixed; 
+    background: url(https://scontent.xx.fbcdn.net/hphotos-xpf1/t31.0-8/1397513_10151742261294150_311572121_o.jpg) no-repeat center 28% scroll; 
     /*background: url(http://img.xianlvke.com/1000/4666_1920-1200.jpg) no-repeat center center fixed;*/ 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    height: 600px;
+    margin-bottom:0px;
+}
+
+.troy-university-banner {
+    background-color: #333;
+    background: url(https://scontent.xx.fbcdn.net/hphotos-xpa1/t31.0-8/1900624_10152539197649150_2678482372344649265_o.jpg) no-repeat center 28% scroll; 
+    /*background: url(http://img.xianlvke.com/1000/4666_1920-1200.jpg) no-repeat center center fixed;*/ 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 600px;
+    margin-bottom:0px;
+}
+
+.troy-international-banner {
+    background-color: #333;
+    background: url(https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/10446276_10152523182409150_1620382555069025850_o.jpg) no-repeat center 10% scroll; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 600px;
+    margin-bottom:0px;
+}
+
+.troy-international-banner p {
+    position: relative;
+    top:500px;
+    color:white;
+    font-size:25px;
+}
+
+.troy-university-banner p {
+    color: white ;
+    position: relative;
+    top: 500px;
+    font-size: 25px;
+}
+
+.troy-university-banner h1 {
+    position: relative;
+    top: 15px;
+    color: white ;
+}
+
+.home-category-banner h1 {
+    position: relative;
+    top: 100px;
+    color: white ;
+}
+
+.home-category-banner p {
+    color: white ;
+    position: relative;
+    top: 140px;
+    font-size: 25px;
+    width: 50% ;
 }
 
 .house-category-banner {
@@ -42,4 +101,12 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+.descrip-troy-university {
+    background-color: #f5f5f5;
+    color: black;
+    font-size: 25px;
+    font-weight: 200 ;
+    padding: 20px 0 ;
 }
