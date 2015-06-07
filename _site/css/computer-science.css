@@ -2,16 +2,20 @@ body {
     font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 18px;
     letter-spacing: 0;
-    color: #337ab7;
+    color: black;
     font-weight:400;
 }
 
 .jumbotron {
-    background-color:#31beb1 ;
+    background-color:#6d0017 ;
     padding:10px;
     margin-top:-7px;
     color:white;
     margin-bottom:0px;
+}
+
+.carousel-caption h2 {
+    font-size:4em ;
 }
 
 .category-banner {
@@ -23,6 +27,15 @@ body {
     padding:30px;
 }
 
+#navbar img {
+    display:block;
+    height:100px;
+    margin-top:10px;
+}
+
+.navbar-nav a{
+    color:black;
+}
 .people .row{
     margin-top:40px;
 }
@@ -37,8 +50,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight:400;
 }
 
-.active > a {
-    color: #3e8f3e ;
+.navbar-nav .active > a {
+    color: #6d0017 ;
 }
 
 .nav-header {
@@ -54,9 +67,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-bottom:7px;
 }
 
-.navbar-nav {
-    margin-bottom:10px;
-}
 .navbar-nav li:first-child > a{
     text-align:left;
     padding-left:0px;
@@ -71,7 +81,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .nav > li > a:focus {
     text-decoration: none;
     background-color: white;
-    color: #3e8f3e ;
+    color: #6d0017 ;
 }
 
 .carousel {
@@ -82,7 +92,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .carousel-caption {
     z-index: 10;
-    color: #337ab7;
+    color: #6d0017;
     text-shadow:none;
     padding-bottom:0px;
 }
@@ -91,12 +101,16 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     border: 1px solid rgba(191, 199, 221, 0.8);
     border-radius: 50%;
     height: 140px;
-    line-height: 140px;
     text-align: center;
     width: 140px; 
     margin: auto;
+    overflow:hidden ;
+    margin-bottom:20px;
 }
 
+.campus-name img{
+    position:relative;
+}
 .campus-row {
     padding: 20px;
     text-align:center;

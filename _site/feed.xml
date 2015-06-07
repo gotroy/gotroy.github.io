@@ -6,8 +6,8 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Jun 2015 15:58:33 -0500</pubDate>
-    <lastBuildDate>Sat, 06 Jun 2015 15:58:33 -0500</lastBuildDate>
+    <pubDate>Sun, 07 Jun 2015 01:13:26 -0500</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2015 01:13:26 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -153,19 +153,21 @@
         &lt;div class=&quot;item active&quot;&gt;
           &lt;div class=&quot;container&quot;&gt;
             &lt;div class=&quot;carousel-caption&quot;&gt;
-              &lt;h2&gt;Undergraduate Program&lt;/h2&gt;
-              &lt;p&gt;Note: If you&#39;re viewing this page via a &lt;code&gt;file://&lt;/code&gt; URL
-              the &quot;next&quot; and &quot;previous&quot; Glyphicon buttons on the left&lt;/p&gt;
-              &lt;p&gt;&lt;a class=&quot;btn btn-default btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;Sign up today&lt;/a&gt;&lt;/p&gt;
+              &lt;h2&gt;Undergraduate&lt;/h2&gt;
+              &lt;p style=&quot;color: maroon;&quot;&gt;Note: If you&#39;re viewing this page via a URL
+              the &quot;next&quot; and &quot;previous&quot; Glyphicon buttons on the left
+              the &quot;next&quot; and &quot;previous&quot; Glyphicon buttons on the left
+              &lt;/p&gt;
+              &lt;p&gt;&lt;a class=&quot;btn btn-default btn-danger&quot; href=&quot;/2015/06/06/undergraduate.html&quot; role=&quot;button&quot;&gt;Sign up today&lt;/a&gt;&lt;/p&gt;
             &lt;/div&gt;
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;item&quot;&gt;
           &lt;div class=&quot;container&quot;&gt;
             &lt;div class=&quot;carousel-caption&quot;&gt;
-              &lt;h2&gt;Graduate Program&lt;/h2&gt;
-              &lt;p&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-              &lt;p&gt;&lt;a class=&quot;btn btn-default btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;Learn more&lt;/a&gt;&lt;/p&gt;
+              &lt;h2&gt;Graduate&lt;/h2&gt;
+              &lt;p style=&quot;color: #ea468c;&quot;&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+              &lt;p&gt;&lt;a class=&quot;btn btn-default btn-danger&quot; href=&quot;/2015/06/06/graduate.html&quot; role=&quot;button&quot;&gt;Learn more&lt;/a&gt;&lt;/p&gt;
             &lt;/div&gt;
           &lt;/div&gt;
         &lt;/div&gt;
@@ -173,8 +175,8 @@
           &lt;div class=&quot;container&quot;&gt;
             &lt;div class=&quot;carousel-caption&quot;&gt;
               &lt;h2&gt;Minor&lt;/h2&gt;
-              &lt;p&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-              &lt;p&gt;&lt;a class=&quot;btn btn-default btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;Browse gallery&lt;/a&gt;&lt;/p&gt;
+              &lt;p style=&quot;color: #f6be15;&quot;&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+              &lt;p&gt;&lt;a class=&quot;btn btn-default btn-danger&quot; href=&quot;/2015/06/06/undergraduate.html&quot; role=&quot;button&quot;&gt;Browse gallery&lt;/a&gt;&lt;/p&gt;
             &lt;/div&gt;
           &lt;/div&gt;
         &lt;/div&gt;
@@ -193,16 +195,28 @@
     &lt;div class=&quot;container&quot;&gt;
         &lt;div class=&quot;row campus-row&quot;&gt;
             &lt;div class=&quot;col-lg-3&quot;&gt;
-                &lt;p class=&quot;campus-name&quot;&gt;Troy&lt;/p&gt;
+                &lt;div class=&quot;campus-name&quot;&gt;
+                    &lt;img style=&quot;left:-100px;top:-75px;&quot; src=&quot;http://watermarked.cutcaster.com/cutcaster-photo-800970672-Troy-University.jpg&quot;/&gt;
+                &lt;/div&gt;
+                &lt;p&gt;Troy Campus&lt;/p&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-lg-3&quot;&gt;
-                &lt;p class=&quot;campus-name&quot;&gt;Dothan&lt;/p&gt;
+                &lt;div class=&quot;campus-name&quot;&gt;
+                    &lt;img style=&quot;left:-123px;height:140px;&quot; src=&quot;http://trojan.troy.edu/campus/montgomery/assets/skitter/photos/3.jpg&quot;&gt;
+                &lt;/div&gt;
+                &lt;p&gt;Montgomery Campus&lt;/p&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-lg-3&quot;&gt;
-                &lt;p class=&quot;campus-name&quot;&gt;Montgomery&lt;/p&gt;
+                &lt;div class=&quot;campus-name&quot;&gt;
+                    &lt;img style=&quot;height:140px;&quot; src=&quot;http://www.businessalabama.com/images/cache/cache_0/cache_f/cache_0/higher-ed-d9c2e0f0.jpeg&quot;/&gt;
+                &lt;/div&gt;
+                &lt;p&gt;Dothan Campus&lt;/p&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-lg-3&quot;&gt;
-                &lt;p class=&quot;campus-name&quot;&gt;Global&lt;/p&gt;
+                &lt;div class=&quot;campus-name&quot;&gt;
+                    &lt;img style=&quot;top:-8px; height:140px;&quot;src=&quot;http://mymathsupport.weebly.com/uploads/1/0/8/9/10891916/7489187_orig.jpg&quot;/&gt;
+                &lt;/div&gt;
+                &lt;p&gt;Global Campus&lt;/p&gt;
             &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
