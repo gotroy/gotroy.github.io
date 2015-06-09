@@ -6,8 +6,8 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Jun 2015 12:04:07 -0500</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2015 12:04:07 -0500</lastBuildDate>
+    <pubDate>Tue, 09 Jun 2015 15:09:09 -0500</pubDate>
+    <lastBuildDate>Tue, 09 Jun 2015 15:09:09 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -19,7 +19,7 @@
 &lt;/div&gt;
 
 &lt;div class=&quot;category-banner&quot;&gt;
-&lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;container&quot;&gt;
     &lt;div class=&quot;row featurette&quot;&gt;
         &lt;div class=&quot;col-md-5&quot;&gt;
             &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;https://www.elastic.co/assets/blt1a8d62b0cb8248ec/meetups.jpg&quot; alt=&quot;image&quot;&gt;
@@ -31,9 +31,69 @@
             &lt;/p&gt;
         &lt;/div&gt;
     &lt;/div&gt;
-&lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;div class=&quot;course-list container&quot;&gt;
+    &lt;h2&gt;Freshman&lt;/h2&gt;
+
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-lg-3&quot;&gt;
+            &lt;div class=&quot;course&quot;&gt;
+                &lt;img src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==&quot; alt=&quot;Generic placeholder image&quot;&gt;
+                &lt;div class=&quot;course-describe&quot;&gt;
+                    &lt;h4&gt;Heading&lt;/h4&gt;
+                    &lt;p&gt; description a little&lt;/p&gt;
+                    &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-danger&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+        &lt;div class=&quot;col-lg-3&quot;&gt;
+            &lt;div class=&quot;course&quot;&gt;
+                &lt;img src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==&quot; alt=&quot;Generic placeholder image&quot;&gt;
+                &lt;div class=&quot;course-describe&quot;&gt;
+                    &lt;h4&gt;Heading&lt;/h4&gt;
+                    &lt;p&gt; description a little&lt;/p&gt;
+                    &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-info&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+        &lt;div class=&quot;col-lg-3&quot;&gt;
+            &lt;div class=&quot;course&quot;&gt;
+                &lt;img src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==&quot; alt=&quot;Generic placeholder image&quot;&gt;
+                &lt;div class=&quot;course-describe&quot;&gt;
+                    &lt;h4&gt;Heading&lt;/h4&gt;
+                    &lt;p&gt; description a little&lt;/p&gt;
+                    &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+        &lt;div class=&quot;col-lg-3&quot;&gt;
+            &lt;div class=&quot;course&quot;&gt;
+                &lt;img src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==&quot; alt=&quot;Generic placeholder image&quot;&gt;
+                &lt;div class=&quot;course-describe&quot;&gt;
+                    &lt;h4&gt;Heading&lt;/h4&gt;
+                    &lt;p&gt; description a little&lt;/p&gt;
+                    &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-warning&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+    &lt;/div&gt;&lt;!-- /.row --&gt;
+
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-lg-3&quot;&gt;
+            &lt;div class=&quot;course&quot;&gt;
+                &lt;img src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==&quot; alt=&quot;Generic placeholder image&quot;&gt;
+                &lt;div class=&quot;course-describe&quot;&gt;
+                    &lt;h4&gt;Heading&lt;/h4&gt;
+                    &lt;p&gt; description a little&lt;/p&gt;
+                    &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+    &lt;/div&gt;&lt;!-- /.row --&gt;
+
+&lt;/div&gt;
 </description>
         <pubDate>Sat, 06 Jun 2015 00:00:00 -0500</pubDate>
         <link>http://zhou-dong.github.io//2015/06/06/undergraduate.html</link>
@@ -166,7 +226,7 @@
           &lt;div class=&quot;container&quot;&gt;
             &lt;div class=&quot;carousel-caption&quot;&gt;
               &lt;h2&gt;Graduate&lt;/h2&gt;
-              &lt;p style=&quot;color: #ea468c;&quot;&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+              &lt;p style=&quot;color: maroon;&quot;&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
               &lt;p&gt;&lt;a class=&quot;btn btn-default btn-danger&quot; href=&quot;/2015/06/06/graduate.html&quot; role=&quot;button&quot;&gt;Learn more&lt;/a&gt;&lt;/p&gt;
             &lt;/div&gt;
           &lt;/div&gt;
@@ -175,7 +235,7 @@
           &lt;div class=&quot;container&quot;&gt;
             &lt;div class=&quot;carousel-caption&quot;&gt;
               &lt;h2&gt;Minor&lt;/h2&gt;
-              &lt;p style=&quot;color: #f6be15;&quot;&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+              &lt;p style=&quot;color: maroon;&quot;&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
               &lt;p&gt;&lt;a class=&quot;btn btn-default btn-danger&quot; href=&quot;/2015/06/06/undergraduate.html&quot; role=&quot;button&quot;&gt;Browse gallery&lt;/a&gt;&lt;/p&gt;
             &lt;/div&gt;
           &lt;/div&gt;

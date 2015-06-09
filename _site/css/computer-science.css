@@ -146,3 +146,33 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .carousel-control.right {
     background-image:none;
 }
+
+.course-list {
+    margin-top:40px;
+}
+
+.course:hover {
+    background-color: #fff;
+}
+
+.course {
+    padding:1px;
+    overflow:hidden;
+    background-color: #fff;
+    margin-bottom:30px;
+    -webkit-box-shadow:0px 2px 2px 0px rgba(0, 0, 0, 0.3); 
+    -moz-box-shadow:0px 2px 2px 0px rgba(0, 0, 0, 0.3); 
+    box-shadow:0px 2px 2px 0px rgba(0, 0, 0, 0.3);
+    -webkit-transform: translate3d(0,0,0);
+    -moz-transform: translate3d(0,0,0);
+    -webkit-font-smoothing: antialiased;
+}
+
+.course img {
+    width:261px;
+    height:150px;
+}
+
+.course .course-describe {
+    padding-left:5px;
+}
