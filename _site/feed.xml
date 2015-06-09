@@ -6,8 +6,8 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Jun 2015 21:50:04 -0500</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2015 21:50:04 -0500</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2015 23:38:49 -0500</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2015 23:38:49 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -196,25 +196,25 @@
         &lt;div class=&quot;row campus-row&quot;&gt;
             &lt;div class=&quot;col-lg-3&quot;&gt;
                 &lt;div&gt;
-                    &lt;img class=&quot;img-circle campus-name&quot; style=&quot;left:-100px;top:-75px;&quot; src=&quot;http://watermarked.cutcaster.com/cutcaster-photo-800970672-Troy-University.jpg&quot;/&gt;
+                    &lt;img class=&quot;img-circle campus-name&quot; src=&quot;http://watermarked.cutcaster.com/cutcaster-photo-800970672-Troy-University.jpg&quot;/&gt;
                 &lt;/div&gt;
                 &lt;p&gt;Troy Campus&lt;/p&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-lg-3&quot;&gt;
                 &lt;div&gt;
-                    &lt;img class=&quot;img-circle campus-name&quot; style=&quot;left:-123px;height:140px;&quot; src=&quot;http://trojan.troy.edu/campus/montgomery/assets/skitter/photos/3.jpg&quot;&gt;
+                    &lt;img class=&quot;img-circle campus-name&quot; src=&quot;http://www.leightronix.com/customers/images/troy/troy_university.png&quot;&gt;
                 &lt;/div&gt;
                 &lt;p&gt;Montgomery Campus&lt;/p&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-lg-3&quot;&gt;
                 &lt;div&gt;
-                    &lt;img class=&quot;img-circle campus-name&quot; style=&quot;height:140px;&quot; src=&quot;http://www.businessalabama.com/images/cache/cache_0/cache_f/cache_0/higher-ed-d9c2e0f0.jpeg&quot;/&gt;
+                    &lt;img class=&quot;img-circle campus-name&quot; src=&quot;http://www.businessalabama.com/images/cache/cache_0/cache_f/cache_0/higher-ed-d9c2e0f0.jpeg&quot;/&gt;
                 &lt;/div&gt;
                 &lt;p&gt;Dothan Campus&lt;/p&gt;
             &lt;/div&gt;
             &lt;div class=&quot;col-lg-3&quot;&gt;
                 &lt;div&gt;
-                    &lt;img class=&quot;img-circle campus-name&quot; style=&quot;top:-8px; height:140px;&quot;src=&quot;http://mymathsupport.weebly.com/uploads/1/0/8/9/10891916/7489187_orig.jpg&quot;/&gt;
+                    &lt;img class=&quot;img-circle campus-name&quot; src=&quot;http://mymathsupport.weebly.com/uploads/1/0/8/9/10891916/7489187_orig.jpg&quot;/&gt;
                 &lt;/div&gt;
                 &lt;p&gt;Global Campus&lt;/p&gt;
             &lt;/div&gt;
@@ -228,12 +228,12 @@
     &lt;hr class=&quot;featurette-divider&quot;&gt;
     
     &lt;div class=&quot;row featurette&quot;&gt;
-        &lt;div class=&quot;col-md-7&quot;&gt;
+        &lt;div class=&quot;col-md-8&quot;&gt;
             &lt;h3 class=&quot;featurette-heading&quot;&gt;About Us. &lt;span class=&quot;text-muted&quot;&gt;Our Trojans.&lt;/span&gt;&lt;/h3&gt;
             &lt;p class=&quot;lead&quot;&gt;The Computer Science program provides students with a curriculum in the MSCS key domains of Computer Science at the undergraduate and graduate levels. 
             &lt;/p&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;col-md-5&quot;&gt;
+        &lt;div class=&quot;col-md-4&quot;&gt;
             &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://fastpitchnews.org/wp-content/uploads/2013/09/troy-trojans-alternate-logo-2-primary.jpg&quot; alt=&quot;Generic placeholder image&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -241,10 +241,10 @@
     &lt;hr class=&quot;featurette-divider&quot;&gt;
 
     &lt;div class=&quot;row featurette&quot;&gt;
-        &lt;div class=&quot;col-md-5&quot;&gt;
+        &lt;div class=&quot;col-md-4&quot;&gt;
             &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://fastpitchnews.org/wp-content/uploads/2013/09/troy-trojans-alternate-logo-2-primary.jpg&quot; alt=&quot;Generic placeholder image&quot;&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;col-md-7&quot;&gt;
+        &lt;div class=&quot;col-md-8&quot;&gt;
             &lt;h3 class=&quot;featurette-heading&quot;&gt;Admissions. &lt;span class=&quot;text-muted&quot;&gt;See for yourself.&lt;/span&gt;&lt;/h3&gt;
             &lt;p class=&quot;lead&quot;&gt;The Computer Science program provides students with a curriculum in the MSCS key domains of Computer Science at the undergraduate and graduate levels. 
             &lt;/p&gt;
@@ -254,12 +254,12 @@
     &lt;hr class=&quot;featurette-divider&quot;&gt;
 
     &lt;div class=&quot;row featurette&quot;&gt;
-        &lt;div class=&quot;col-md-7&quot;&gt;
+        &lt;div class=&quot;col-md-8&quot;&gt;
             &lt;h3 class=&quot;featurette-heading&quot;&gt;Project. &lt;span class=&quot;text-muted&quot;&gt;Checkmate.&lt;/span&gt;&lt;/h3&gt;
             &lt;p class=&quot;lead&quot;&gt;The Computer Science program provides students with a curriculum in the MSCS key domains of Computer Science at the undergraduate and graduate levels. 
             &lt;/p&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;col-md-5&quot;&gt;
+        &lt;div class=&quot;col-md-4&quot;&gt;
             &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://fastpitchnews.org/wp-content/uploads/2013/09/troy-trojans-alternate-logo-2-primary.jpg&quot; alt=&quot;Generic placeholder image&quot;&gt;
         &lt;/div&gt;
     &lt;/div&gt;
