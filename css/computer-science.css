@@ -98,7 +98,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .campus-name {
-    border: 1px solid rgba(191, 199, 221, 0.8);
+    border: 2px solid rgba(191, 199, 221, 0.8);
     border-radius: 50%;
     height: 140px;
     text-align: center;
