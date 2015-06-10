@@ -176,3 +176,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .course .course-describe {
     padding-left:5px;
 }
+
+.gray-back {
+    background-color:#f5f5f5;
+    padding-top:20px;
+}
