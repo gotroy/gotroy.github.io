@@ -6,8 +6,8 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Jun 2015 20:24:21 -0500</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2015 20:24:21 -0500</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2015 22:26:11 -0500</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2015 22:26:11 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -91,6 +91,36 @@
                 &lt;/div&gt;
             &lt;/div&gt;
         &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+        &lt;div class=&quot;col-lg-3&quot;&gt;
+            &lt;div class=&quot;course&quot;&gt;
+                &lt;img src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==&quot; alt=&quot;Generic placeholder image&quot;&gt;
+                &lt;div class=&quot;course-describe&quot;&gt;
+                    &lt;h4&gt;Heading&lt;/h4&gt;
+                    &lt;p&gt; description a little&lt;/p&gt;
+                    &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+        &lt;div class=&quot;col-lg-3&quot;&gt;
+            &lt;div class=&quot;course&quot;&gt;
+                &lt;img src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==&quot; alt=&quot;Generic placeholder image&quot;&gt;
+                &lt;div class=&quot;course-describe&quot;&gt;
+                    &lt;h4&gt;Heading&lt;/h4&gt;
+                    &lt;p&gt; description a little&lt;/p&gt;
+                    &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+        &lt;div class=&quot;col-lg-3&quot;&gt;
+            &lt;div class=&quot;course&quot;&gt;
+                &lt;img src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==&quot; alt=&quot;Generic placeholder image&quot;&gt;
+                &lt;div class=&quot;course-describe&quot;&gt;
+                    &lt;h4&gt;Heading&lt;/h4&gt;
+                    &lt;p&gt; description a little&lt;/p&gt;
+                    &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
     &lt;/div&gt;&lt;!-- /.row --&gt;
 
 &lt;/div&gt;
@@ -155,7 +185,38 @@
                 &lt;/div&gt;
             &lt;/div&gt;
         &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+        &lt;div class=&quot;col-lg-3&quot;&gt;
+            &lt;div class=&quot;course&quot;&gt;
+                &lt;img src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==&quot; alt=&quot;Generic placeholder image&quot;&gt;
+                &lt;div class=&quot;course-describe&quot;&gt;
+                    &lt;h4&gt;Heading&lt;/h4&gt;
+                    &lt;p&gt; description a little&lt;/p&gt;
+                    &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+        &lt;div class=&quot;col-lg-3&quot;&gt;
+            &lt;div class=&quot;course&quot;&gt;
+                &lt;img src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==&quot; alt=&quot;Generic placeholder image&quot;&gt;
+                &lt;div class=&quot;course-describe&quot;&gt;
+                    &lt;h4&gt;Heading&lt;/h4&gt;
+                    &lt;p&gt; description a little&lt;/p&gt;
+                    &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
+        &lt;div class=&quot;col-lg-3&quot;&gt;
+            &lt;div class=&quot;course&quot;&gt;
+                &lt;img src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==&quot; alt=&quot;Generic placeholder image&quot;&gt;
+                &lt;div class=&quot;course-describe&quot;&gt;
+                    &lt;h4&gt;Heading&lt;/h4&gt;
+                    &lt;p&gt; description a little&lt;/p&gt;
+                    &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;&lt;!-- /.col-lg-4 --&gt;
     &lt;/div&gt;&lt;!-- /.row --&gt;
+
     &lt;/div&gt;
 &lt;/div&gt;
 </description>
