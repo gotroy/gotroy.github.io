@@ -148,7 +148,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .course-list {
-    margin-top:40px;
 }
 
 .course:hover {
@@ -161,7 +160,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     text-align:center;
     overflow:hidden;
     background-color: #fff;
-    margin-bottom:30px;
+    margin-bottom: 10px;
     -webkit-box-shadow:0px 2px 2px 0px rgba(0, 0, 0, 0.3); 
     -moz-box-shadow:0px 2px 2px 0px rgba(0, 0, 0, 0.3); 
     box-shadow:0px 2px 2px 0px rgba(0, 0, 0, 0.3);
@@ -212,4 +211,38 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .select-course {
     background-color: #e38d13;
+}
+
+.area-nav {
+    text-align: center;
+}
+
+.area {
+    height:100px;
+    line-height:100px;
+    border-bottom:1px solid #f5f5f5;
+    font-weight:bold;
+}
+.area-1 {
+    background-color: #cd5c5c;
+}
+.area-2 {
+    background-color: #f0e68c;
+}
+.area-3 {
+    background-color: #daa520;
+}
+.area-4 {
+    background-color: #95c73d;
+}
+.area-5 {
+    background-color: #31beb1;
+}
+.area-6 {
+    background-color: lightblue;
+}
+.area-nav a {
+    color:black;
+    cursor: pointer;
+    text-decoration: none;
 }
