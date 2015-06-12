@@ -196,10 +196,16 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     bottom: 0;
     left: 0;
     right: 0;
-    top: 41px;
     line-height:34px;
 }
 
+.course-name > .one-line {
+    top: 41px;
+}
+
+.course-name > .two-line {
+    top: 20px;
+}
 .core-course {
     background-color: #6d0017;
 }
