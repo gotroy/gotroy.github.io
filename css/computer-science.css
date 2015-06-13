@@ -242,14 +242,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .area-a:hover, .area-a:focus {
-    color: gray;
+    color: black;
 }
 .area-nav a {
-    color:black;
+    color: #6d0017;
     cursor: pointer;
     text-decoration: none;
 }
 
-a[name="area-6"]{
-    color:gray;
+.area-nav a[name="area-6"]{
+    color:black;
 }
