@@ -151,7 +151,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .course:hover {
-    background-color: peru ;
+    background-color: gray ;
     color:white ;
 }
 
@@ -284,5 +284,4 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     right:10px;
     font-size:22px;
     color:white;
-
 }
