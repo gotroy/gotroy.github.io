@@ -6,8 +6,8 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Jun 2015 20:20:48 -0500</pubDate>
-    <lastBuildDate>Fri, 12 Jun 2015 20:20:48 -0500</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2015 23:20:29 -0500</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2015 23:20:29 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -65,6 +65,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Composition I&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;ENG 1101&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -73,6 +75,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Composition II&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;ENG 1102&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -90,6 +94,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Speech&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;COM 2241&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -102,6 +107,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Visual Arts&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;2H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;ART 1133&lt;/h4&gt;
                 &lt;p&gt;2 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -110,6 +117,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Intro to Drama&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;2H&lt;/p&gt;
                 &lt;h4&gt;DRA 2200&lt;/h4&gt;
                 &lt;p&gt;2 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -118,6 +126,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Music Appreciation&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;2H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;MUS 1131&lt;/h4&gt;
                 &lt;p&gt;2 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -130,6 +140,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;World Lit I&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;2H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;ENG 2205&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -138,6 +150,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;World Lit II&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;ENG 2206&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -146,6 +160,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;American Lit I&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;ENG 2211&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -154,6 +169,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;American Lit II&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;ENG 2212&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -165,6 +181,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;British Lit I&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;ENG 2244&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -173,6 +190,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;British Lit II&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;ENG 2245&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -187,6 +205,7 @@
                 &lt;div class=&quot;course-name select-course&quot;&gt;
                     &lt;p class=&quot;two-line&quot;&gt;Second course in Sophomore Literature Sequence&lt;/p&gt;
                 &lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;ENG xxxx&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -195,6 +214,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Classical Myth&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;CLA 2260&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -203,6 +224,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Intro to Philosophy&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;PHI 2203&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -211,6 +233,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Ethics&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;phi 2204&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -222,6 +245,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;World Religions&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;REL 2280&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -232,6 +256,8 @@
                 &lt;div class=&quot;course-name select-course&quot;&gt;
                     &lt;p class=&quot;one-line&quot;&gt;Any Intro Language course&lt;/p&gt;
                 &lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;French,Spanish...&lt;/h4&gt;
                 &lt;title&gt;oooooooo&lt;/title&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
@@ -250,6 +276,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Biology &amp; Lab&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;4H&lt;/p&gt;
                 &lt;h4&gt;BIO 1100&lt;/h4&gt;
                 &lt;p&gt;4 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -258,6 +285,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Calculus I&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;MTH 1125&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -272,6 +301,7 @@
                 &lt;div class=&quot;course-name select-course&quot;&gt;
                     Gen. Chemistry &amp; Lab
                 &lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;4H&lt;/p&gt;
                 &lt;h4&gt;CHM 1142&lt;/h4&gt;
                 &lt;p&gt;4 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -280,6 +310,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Gen. Physics &amp; Lab&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;4H&lt;/p&gt;
                 &lt;h4&gt;PHY 2252&lt;/h4&gt;
                 &lt;p&gt;4 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -288,6 +319,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Phy. w/Calculus &amp; Lab&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;4H&lt;/p&gt;
                 &lt;h4&gt;PHY 2262&lt;/h4&gt;
                 &lt;p&gt;4 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -308,6 +340,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Western Civ I&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;HIS 1101&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -316,6 +349,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Western Civ II&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;HIS 1102&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -324,6 +358,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;US History to 1877&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;HIS 1111&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -332,6 +367,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;US History since 1877&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;HIS 1112&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -343,6 +379,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;World History to 1500&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;HIS 1122&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -351,6 +389,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;World History since 1500&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;HIS 1123&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -363,6 +403,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Anthropology&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;ANT 2200&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -371,6 +413,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Macroeconomics&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;ECO 2251&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -379,6 +423,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Microeconomics&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;ECO 2252&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -387,6 +433,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Geography&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;GEO 2210&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -398,6 +446,8 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;World Politics&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
+                &lt;p class=&quot;internation-tag&quot;&gt;International&lt;/p&gt;
                 &lt;h4&gt;POL 2260&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -406,6 +456,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;American Nat&#39;1. Govt.&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;POL 2241&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -414,6 +465,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Gen. Psychology&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;PSY 2200&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -422,6 +474,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Developmental Psych&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;PSY 2210&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -433,6 +486,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name select-course&quot;&gt;Sociology&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;SOC 2275&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -443,6 +497,7 @@
                 &lt;div class=&quot;course-name select-course&quot;&gt;
                     &lt;p class=&quot;two-line&quot;&gt;Second course in Freshman History Sequence&lt;/p&gt;
                 &lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;HIS xxxx&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -460,6 +515,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Orientation&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;1H&lt;/p&gt;
                 &lt;h4&gt;TROY 1101&lt;/h4&gt;
                 &lt;p&gt;1 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -468,6 +524,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Computer Science I&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;CS 2250&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -476,6 +533,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Calculus II&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;4H&lt;/p&gt;
                 &lt;h4&gt;MTH 1126&lt;/h4&gt;
                 &lt;p&gt;4 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -486,6 +544,7 @@
                 &lt;div class=&quot;course-name core-course&quot;&gt;
                     &lt;p class=&quot;two-line&quot;&gt;Second course in PHYSICS or CHEM sequence w/lab&lt;/p&gt;
                 &lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;4H&lt;/p&gt;
                 &lt;h4&gt;xxxx&lt;/h4&gt;
                 &lt;p&gt;4 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -505,6 +564,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Applied Statistics&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;MTH 2210&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -513,6 +573,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Applied Discrete Math&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;MTH 2215&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -521,6 +582,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Computer Science II&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;CS 2255&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -529,6 +591,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Foundations of CS&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;CS 3310&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -540,6 +603,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Data Structures&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;CS 3323&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -548,6 +612,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Analysis of Algorithms&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;CS 3329&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -556,6 +621,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Software Engineering I&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;CS 3332&lt;/h4&gt;
                 &lt;p&gt; 3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -566,6 +632,7 @@
                 &lt;div class=&quot;course-name core-course&quot;&gt;
                     &lt;p class=&quot;one-line&quot;&gt;Formal Languages &amp; Theory of Computation&lt;/p&gt;
                 &lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;CS 3372&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -579,6 +646,7 @@
                 &lt;div class=&quot;course-name core-course&quot;&gt;
                     &lt;p class=&quot;one-line&quot;&gt;Intro to Comp. Org. &amp; Architectures&lt;/p&gt;
                 &lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;CS 3365&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -589,6 +657,7 @@
                 &lt;div class=&quot;course-name core-course&quot;&gt;
                     &lt;p class=&quot;one-line&quot;&gt;Concepts of Object Oriented Programming I&lt;/p&gt;
                 &lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;CS 3360&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -599,6 +668,7 @@
                 &lt;div class=&quot;course-name core-course&quot;&gt;
                     &lt;p class=&quot;one-line&quot;&gt;Nature of Programming Languages&lt;/p&gt;
                 &lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;CS 3370&lt;/h4&gt;
                 &lt;p&gt; 3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -607,6 +677,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Intro to Database Systems&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;CS 4420&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -620,6 +691,7 @@
                 &lt;div class=&quot;course-name core-course&quot;&gt;
                     &lt;p class=&quot;one-line&quot;&gt;Data Com. And Networking&lt;/p&gt;
                 &lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;CS 4445&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -630,6 +702,7 @@
                 &lt;div class=&quot;course-name core-course&quot;&gt;
                     Operating Systems
                 &lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;4448&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -638,6 +711,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Upper Level CS&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;3xxx or 4xxx&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
@@ -646,6 +720,7 @@
         &lt;div class=&quot;col-lg-3&quot;&gt;
             &lt;div class=&quot;course&quot;&gt;
                 &lt;div class=&quot;course-name core-course&quot;&gt;Upper Level CS&lt;/div&gt;
+                &lt;p class=&quot;hour-tag&quot;&gt;3H&lt;/p&gt;
                 &lt;h4&gt;3xxx or 4xxx&lt;/h4&gt;
                 &lt;p&gt;3 hours&lt;/p&gt;
                 &lt;p&gt;&lt;a class=&quot;btn btn-sm btn-default&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
