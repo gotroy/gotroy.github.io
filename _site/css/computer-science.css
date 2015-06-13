@@ -218,31 +218,38 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .area {
-    height:100px;
-    line-height:100px;
-    border-bottom:1px solid #f5f5f5;
+    height:70px;
+    line-height:70px;
+    border-bottom:1px solid gray;
     font-weight:bold;
 }
 .area-1 {
-    background-color: #cd5c5c;
+    display: none;
 }
 .area-2 {
-    background-color: #f0e68c;
+    display: none;
 }
 .area-3 {
-    background-color: #daa520;
+    display: none;
 }
 .area-4 {
-    background-color: #95c73d;
+    display: none;
 }
 .area-5 {
-    background-color: #31beb1;
+    display: none;
 }
 .area-6 {
-    background-color: lightblue;
+}
+
+.area-a:hover, .area-a:focus {
+    color: gray;
 }
 .area-nav a {
     color:black;
     cursor: pointer;
     text-decoration: none;
+}
+
+a[name="area-6"]{
+    color:gray;
 }

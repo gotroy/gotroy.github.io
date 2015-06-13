@@ -68,31 +68,31 @@
 
 <div class="container">
     <div class="row area-nav">
-        <div class="col-md-2 area area-1">
-            <a href="#area-one">AREA I</a>
+        <div class="col-md-2 area">
+            <a class="area-a" name="area-6">CS PROGRAM</a>
         </div>
-        <div class="col-md-2 area area-2">
-            <a href="#area-two">AREA II</a>
+        <div class="col-md-2 area">
+            <a class="area-a" name="area-1">AREA I</a>
         </div>
-        <div class="col-md-2 area area-3">
-            <a href="#area-three">AREA III</a>
+        <div class="col-md-2 area">
+            <a class="area-a" name="area-2">AREA II</a>
         </div>
-        <div class="col-md-2 area area-4">
-            <a href="#area-four">AREA IV</a>
+        <div class="col-md-2 area">
+            <a class="area-a" name="area-3">AREA III</a>
         </div>
-        <div class="col-md-2 area area-5">
-            <a href="#area-five">AREA V</a>
+        <div class="col-md-2 area">
+            <a class="area-a" name="area-4">AREA IV</a>
         </div>
-        <div class="col-md-2 area area-6">
-            <a href="#area-six">CS PROGRAM</a>
+        <div class="col-md-2 area">
+            <a class="area-a" name="area-5">AREA V</a>
         </div>
     </div>
 </div>
 
 <!-- area one -->
-<div class="area-1">
+<div class="area-1 area-list">
 <div class="course-list container">
-    <h3 name="area-one" id="area-one">Area I (6 hours)</h3>
+    <h3>Area I (6 hours)</h3>
     <div class="row">
         <div class="col-lg-3">
             <div class="course">
@@ -115,9 +115,9 @@
 </div><!-- / area one -->
 
 <!-- area two -->
-<div class="area-2">
+<div class="area-2 area-list">
 <div class="course-list container">
-    <h3 name="area-two" id="area-two">Area II (13 hours) </h3>
+    <h3>Area II (13 hours) </h3>
     <div class="row">
         <div class="col-lg-3">
             <div class="course">
@@ -275,9 +275,9 @@
 </div><!-- / area two-->
 
 <!-- area three -->
-<div class="area-3">
-<div class="course-list container area-3">
-    <h3 id="area-three" name="area-three">Area III (12 hours)</h3>
+<div class="area-3 area-list">
+<div class="course-list container">
+    <h3>Area III (12 hours)</h3>
     <div class="row">
         <div class="col-lg-3">
             <div class="course">
@@ -330,10 +330,10 @@
 </div><!-- / area three -->
 
 <!-- area four -->
-<div class="area-4">
+<div class="area-4 area-list">
 <div class="course-list container">
     
-    <h3 id="area-four" name="area-four">Area IV (12 hours)</h3>
+    <h3>Area IV (12 hours)</h3>
     
     <h4>Select <strong>ONE COURSE</strong></h4>
     <div class="row">
@@ -485,9 +485,9 @@
 </div> <!-- / area four-->
 
 <!-- area five -->
-<div class="area-5">
+<div class="area-5 area-list">
 <div class="course-list container">
-    <h3 id="area-five" name="area-five">Area V (12 hours)</h3>
+    <h3>Area V (12 hours)</h3>
     <div class="row">
         <div class="col-lg-3">
             <div class="course">
@@ -528,10 +528,10 @@
 </div> <!-- area 5-->
 
 <!-- area six -->
-<div class="area-6">
+<div class="area-6 area-list">
 <div class="course-list container">
     
-    <h3 name="area-six" id="area-six">COMPUTER SCIENCE Program (48 hours)</h3>
+    <h3>COMPUTER SCIENCE Program (48 hours)</h3>
 
     <div class="row">
         <div class="col-lg-3">
@@ -686,6 +686,22 @@
     </div><!-- /.row -->
 </div>
 </div><!-- course list-->
+
+<script src="/js/jquery-2.1.3.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $(".area-a").click(function(){
+            
+            $(".area-list").hide() ;
+            var name = $(this).attr("name") ;
+            $("." + name).show();
+
+            $(".area-a").css("color", "black") ;
+            $(this).css("color", "gray");
+
+        }) ;
+    }) ;
+</script>
 
 
 <footer class="footer">
