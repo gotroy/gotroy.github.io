@@ -6,6 +6,26 @@ body {
     font-weight:400;
 }
 
+.colledge-name {
+    border-left: 1px solid gray;
+    display: inline-block;
+    height: 100px;
+    left: 250px;
+    position: absolute;
+    top: 10px;
+    width: 115px;
+}
+
+.colledge-name p{
+    line-height:30px;
+    color: #6d0017;
+    font-size: 17px;
+    font-weight: 400;
+    position: relative;
+    text-align: center;
+    top: 20px;
+}
+
 .jumbotron {
     background-color:#6d0017 ;
     padding:10px;
@@ -28,7 +48,6 @@ body {
 }
 
 #navbar img {
-    display:block;
     height:100px;
     margin-top:10px;
 }
@@ -285,3 +304,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-size:22px;
     color:white;
 }
+
+.description-banner .lead {
+    font-size:19px;
+}
+
