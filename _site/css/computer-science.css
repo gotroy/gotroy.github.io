@@ -314,12 +314,18 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .table, table{
     text-align:center;
+    color:white;
 }
 
 .table th, table th {
     text-align:center;
+    color:black;
 }
 
-.modal-lg{
-    width:90%;
+.modal-xlg{
+    width:95%;
+}
+
+td hr{
+    margin:0px;
 }
