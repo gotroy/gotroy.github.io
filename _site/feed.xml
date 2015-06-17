@@ -6,8 +6,8 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jun 2015 14:22:53 -0500</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2015 14:22:53 -0500</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2015 16:42:39 -0500</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2015 16:42:39 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -709,54 +709,54 @@
                         &lt;/thead&gt;
                         &lt;tbody&gt;
                             &lt;tr&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Calculus I &lt;hr&gt;MTH 1125 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Calculus II&lt;hr&gt;MTH 1126 (4)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Computer Science I &lt;hr&gt;CS 2250 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Computer Science II&lt;hr&gt;CS 2255 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Foundations of CS &lt;hr&gt;CS 3310 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Analysis of Algorithms&lt;hr&gt;CS 3329 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Intro to Database Systems&lt;hr&gt;CS 4420 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Operating Systems&lt;hr&gt;CS 4448 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Calculus I &lt;br&gt;MTH 1125 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Calculus II&lt;br&gt;MTH 1126 (4)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Computer Science I &lt;br&gt;CS 2250 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Computer Science II&lt;br&gt;CS 2255 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Foundations of CS &lt;br&gt;CS 3310 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Analysis of Algorithms&lt;br&gt;CS 3329 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Intro to Database Systems&lt;br&gt;CS 4420 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Operating Systems&lt;br&gt;CS 4448 (3)&lt;/td&gt;
                             &lt;/tr&gt;
                             &lt;tr&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Composition I &lt;hr&gt;ENG 1101 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Composition II&lt;hr&gt;ENG 1102 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Applied Statistics&lt;hr&gt;MTH 2210 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Applied Discrete Math&lt;hr&gt;MTH 2215 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Data Structures&lt;hr&gt;CS 3323 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Software Engineering I&lt;hr&gt;CS 3332 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Intro to Comp. Org. &amp; Architectures&lt;hr&gt;CS 3365 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Data Com. And Networking&lt;hr&gt;CS 4445 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Composition I &lt;br&gt;ENG 1101 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Composition II&lt;br&gt;ENG 1102 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Applied Statistics&lt;br&gt;MTH 2210 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Applied Discrete Math&lt;br&gt;MTH 2215 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Data Structures&lt;br&gt;CS 3323 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Software Engineering I&lt;br&gt;CS 3332 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Intro to Comp. Org. &amp; Architectures&lt;br&gt;CS 3365 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Data Com. And Networking&lt;br&gt;CS 4445 (3)&lt;/td&gt;
                             &lt;/tr&gt;
                             &lt;tr&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;University Orientation&lt;hr&gt;TROY 1101 (1)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Biology &amp; Lab&lt;hr&gt;BIO 1100 (4)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Speech&lt;hr&gt;COM 2241 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Advanced Programming I&lt;hr&gt;CS 2265 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Concepts of Object Oriented Programming I&lt;hr&gt;CS 3360 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Nature of Programming Languages&lt;hr&gt;CS 3370 (3)&lt;/td&gt;
-                                &lt;td class=&quot;core-course&quot;&gt;Formal Languages &amp; Theory of Computation&lt;hr&gt;CS 3372 (3)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Web Based Software Development&lt;hr&gt;CS 4443 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;University Orientation&lt;br&gt;TROY 1101 (1)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Biology &amp; Lab&lt;br&gt;BIO 1100 (4)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Speech&lt;br&gt;COM 2241 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Advanced Programming I&lt;br&gt;CS 2265 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Concepts of Objected Oriented Programming I&lt;br&gt;CS 3360 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Nature of Programming Languages&lt;br&gt;CS 3370 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Formal Languages &amp; Theory of Computation&lt;br&gt;CS 3372 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Web Based Software Development&lt;br&gt;CS 4443 (3)&lt;/td&gt;
                             &lt;/tr&gt;
                             &lt;tr&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;US History since 1877&lt;hr&gt;HIS 1112 (3)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Visual Arts&lt;hr&gt;ART 1133 (2)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Phy. w/Calculus &amp; Lab&lt;hr&gt;PHY 2262 (3)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Anthropology&lt;hr&gt;ANT 2200 (3)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Advanced Programming II&lt;hr&gt;CS 3347 (3)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Concepts of Objected Oriented Programming II &lt;hr&gt;CS 3361 (3) &lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Advanced Artificial Intelligence&lt;hr&gt;CS4401 (3)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Computer Security&lt;hr&gt;CS 4451 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;US History since 1877&lt;br&gt;HIS 1112 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Visual Arts&lt;br&gt;ART 1133 (2)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Physics with Calculus &amp; Lab&lt;br&gt;PHY 2262 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Antbropology&lt;br&gt;ANT 2200 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Advanced Programming II&lt;br&gt;CS 3347 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Concepts of Objected Oriented Programming II &lt;br&gt;CS 3361 (3) &lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Advanced Artificial Intelligence&lt;br&gt;CS4401 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Computer Security&lt;br&gt;CS 4451 (3)&lt;/td&gt;
                             &lt;/tr&gt;
                             &lt;tr&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Music Appreciation&lt;hr&gt;MUS 1131 (2)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Classical Mythology&lt;hr&gt;CLA 2260 (3)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;World Lit. before 1660&lt;hr&gt;ENG 2205 (3)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Macroeconomics&lt;hr&gt;ECO 2251 (3)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Microeconomics&lt;hr&gt;ECO 2252 (3)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Fundamentals of Artificial Intelligence&lt;hr&gt;CS 3331 (3)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Software Engineering II&lt;hr&gt; CS 4461 (3)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Systems Analysis and Design&lt;hr&gt;CS 4447 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Music Appreciation&lt;br&gt;MUS 1131 (2)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Classical Mythology&lt;br&gt;CLA 2260 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;World Lit. before 1660&lt;br&gt;ENG 2205 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Macroeconomics&lt;br&gt;ECO 2251 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Microeconomics&lt;br&gt;ECO 2252 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Fundamentals of Artificial Intelligence&lt;br&gt;CS 3331 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Software Engineering II&lt;br&gt; CS 4461 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Systems Analysis and Design&lt;br&gt;CS 4447 (3)&lt;/td&gt;
                             &lt;/tr&gt;
                         &lt;/tbody&gt;
                     &lt;/table&gt;
