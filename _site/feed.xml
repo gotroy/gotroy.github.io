@@ -6,8 +6,8 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Jun 2015 21:24:32 -0500</pubDate>
-    <lastBuildDate>Tue, 16 Jun 2015 21:24:32 -0500</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2015 11:03:45 -0500</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2015 11:03:45 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -697,37 +697,73 @@
                 &lt;/h4&gt;
             &lt;/div&gt;&lt;!-- /.modal-header--&gt;
             &lt;div class=&quot;modal-body&quot;&gt;
-                &lt;div class=&quot;container-fluid&quot;&gt;
-                    &lt;div class=&quot;row&quot;&gt;
-                        &lt;div class=&quot;col-md-4&quot;&gt;.col-md-4&lt;/div&gt;
-                        &lt;div class=&quot;col-md-4&quot;&gt;.col-md-4&lt;/div&gt;
-                        &lt;div class=&quot;col-md-4&quot;&gt;.col-md-4&lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;row&quot;&gt;
-                        &lt;div class=&quot;col-md-3 col-md-offset-3&quot;&gt;.col-md-3 .col-md-offset-3&lt;/div&gt;
-                        &lt;div class=&quot;col-md-2 col-md-offset-4&quot;&gt;.col-md-2 .col-md-offset-4&lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;row&quot;&gt;
-                        &lt;div class=&quot;col-md-6 col-md-offset-3&quot;&gt;.col-md-6 .col-md-offset-3&lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;row&quot;&gt;
-                        &lt;div class=&quot;col-sm-9&quot;&gt;
-                            Level 1: .col-sm-9
-                            &lt;div class=&quot;row&quot;&gt;
-                                &lt;div class=&quot;col-xs-8 col-sm-6&quot;&gt;
-                                    Level 2: .col-xs-8 .col-sm-6
-                                &lt;/div&gt;
-                                &lt;div class=&quot;col-xs-4 col-sm-6&quot;&gt;
-                                    Level 2: .col-xs-4 .col-sm-6
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
+                &lt;div class=&quot;container-fluid table-responsive&quot;&gt;
+                    &lt;table class=&quot;table table-hover table-striped table-bordered table-condensed&quot;&gt;
+                        &lt;thead&gt;
+                            &lt;tr&gt;
+                                &lt;th colspan=&quot;2&quot;&gt;Freshman&lt;/th&gt;
+                                &lt;th colspan=&quot;2&quot;&gt;Sophomore&lt;/th&gt;
+                                &lt;th colspan=&quot;2&quot;&gt;Junior&lt;/th&gt;
+                                &lt;th colspan=&quot;2&quot;&gt;Senior&lt;/th&gt;
+                            &lt;/tr&gt;
+                        &lt;/thead&gt;
+                        &lt;tbody&gt;
+                            &lt;tr&gt;
+                                &lt;td&gt;Orientation TROY1101&lt;/td&gt;
+                                &lt;td&gt;Data Structures CS 3323 3 hours&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                            &lt;/tr&gt;
+                            &lt;tr&gt;
+                                &lt;td&gt;Orientation TROY1101&lt;/td&gt;
+                                &lt;td&gt;Nature of Programming Languages&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                            &lt;/tr&gt;
+                            &lt;tr&gt;
+                                &lt;td&gt;Orientation TROY1101&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Formal Languages &amp; Theory of Computation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                            &lt;/tr&gt;
+                            &lt;tr&gt;
+                                &lt;td&gt;Orientation TROY1101&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Intro to Comp. Org. &amp; Architectures&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                            &lt;/tr&gt;
+                            &lt;tr&gt;
+                                &lt;td&gt;Orientation TROY1101&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Concepts of Object Oriented Programming&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                                &lt;td&gt;Orientation&lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/tbody&gt;
+                    &lt;/table&gt;
                 &lt;/div&gt; &lt;!-- container-fluid--&gt;
             &lt;/div&gt;&lt;!-- /.modal-body --&gt;
             &lt;div class=&quot;modal-footer&quot;&gt;
-                &lt;button type=&quot;button&quot; class=&quot;btn btn-default&quot; data-dismiss=&quot;modal&quot;&gt;Close&lt;/button&gt;
-                &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;Save changes&lt;/button&gt;
+                &lt;button type=&quot;button&quot; class=&quot;btn btn-danger&quot; data-dismiss=&quot;modal&quot;&gt;Close&lt;/button&gt;
             &lt;/div&gt; &lt;!-- modal-footer--&gt;
         &lt;/div&gt;&lt;!-- /.modal-content --&gt;
     &lt;/div&gt;&lt;!-- /.modal-dialog --&gt;

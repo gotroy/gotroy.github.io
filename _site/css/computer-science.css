@@ -311,3 +311,15 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .demo-button {
     cursor: pointer ;
 }
+
+.table, table{
+    text-align:center;
+}
+
+.table th, table th {
+    text-align:center;
+}
+
+.modal-lg{
+    width:90%;
+}
