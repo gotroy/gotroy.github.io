@@ -6,8 +6,8 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jun 2015 13:00:08 -0500</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2015 13:00:08 -0500</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2015 14:22:53 -0500</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2015 14:22:53 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -20,7 +20,7 @@
             &lt;/div&gt;
             &lt;div class=&quot;col-md-4&quot;&gt;
                 &lt;h2 class=&quot;pull-right demo-button&quot; data-toggle=&quot;modal&quot; data-target=&quot;#course-map&quot;&gt;
-                Demo of Course Map
+                Sample of Course Map
                 &lt;/h2&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -729,34 +729,34 @@
                                 &lt;td class=&quot;core-course&quot;&gt;Data Com. And Networking&lt;hr&gt;CS 4445 (3)&lt;/td&gt;
                             &lt;/tr&gt;
                             &lt;tr&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;University Orientation&lt;hr&gt;TROY 1101 (1)&lt;/td&gt;
                                 &lt;td class=&quot;core-course&quot;&gt;Biology &amp; Lab&lt;hr&gt;BIO 1100 (4)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;/td&gt;
                                 &lt;td class=&quot;core-course&quot;&gt;Speech&lt;hr&gt;COM 2241 (3)&lt;/td&gt;
+                                &lt;td class=&quot;core-course&quot;&gt;Advanced Programming I&lt;hr&gt;CS 2265 (3)&lt;/td&gt;
                                 &lt;td class=&quot;core-course&quot;&gt;Concepts of Object Oriented Programming I&lt;hr&gt;CS 3360 (3)&lt;/td&gt;
                                 &lt;td class=&quot;core-course&quot;&gt;Nature of Programming Languages&lt;hr&gt;CS 3370 (3)&lt;/td&gt;
                                 &lt;td class=&quot;core-course&quot;&gt;Formal Languages &amp; Theory of Computation&lt;hr&gt;CS 3372 (3)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Web Based Software Development&lt;hr&gt;CS 4443 (3)&lt;/td&gt;
                             &lt;/tr&gt;
                             &lt;tr&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation TROY1101&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Intro tochitectures&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Intro to Comp. Org. &amp; Architectures&lt;hr&gt;CS 3365 (3)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;US History since 1877&lt;hr&gt;HIS 1112 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Visual Arts&lt;hr&gt;ART 1133 (2)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Phy. w/Calculus &amp; Lab&lt;hr&gt;PHY 2262 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Anthropology&lt;hr&gt;ANT 2200 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Advanced Programming II&lt;hr&gt;CS 3347 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Concepts of Objected Oriented Programming II &lt;hr&gt;CS 3361 (3) &lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Advanced Artificial Intelligence&lt;hr&gt;CS4401 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Computer Security&lt;hr&gt;CS 4451 (3)&lt;/td&gt;
                             &lt;/tr&gt;
                             &lt;tr&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;hr&gt;TROY 1101 (1)&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Concepts of Object Oriented Programming&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;/td&gt;
-                                &lt;td class=&quot;select-course&quot;&gt;Orientation&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Music Appreciation&lt;hr&gt;MUS 1131 (2)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Classical Mythology&lt;hr&gt;CLA 2260 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;World Lit. before 1660&lt;hr&gt;ENG 2205 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Macroeconomics&lt;hr&gt;ECO 2251 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Microeconomics&lt;hr&gt;ECO 2252 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Fundamentals of Artificial Intelligence&lt;hr&gt;CS 3331 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Software Engineering II&lt;hr&gt; CS 4461 (3)&lt;/td&gt;
+                                &lt;td class=&quot;select-course&quot;&gt;Systems Analysis and Design&lt;hr&gt;CS 4447 (3)&lt;/td&gt;
                             &lt;/tr&gt;
                         &lt;/tbody&gt;
                     &lt;/table&gt;
