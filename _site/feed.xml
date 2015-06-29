@@ -6,8 +6,8 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Jun 2015 20:31:01 -0500</pubDate>
-    <lastBuildDate>Sun, 28 Jun 2015 20:31:01 -0500</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2015 20:36:00 -0500</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2015 20:36:00 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -701,7 +701,7 @@
                     &lt;table class=&quot;table table-bordered table-condensed&quot;&gt;
                         &lt;tbody valign=&quot;middle&quot;&gt;
                             &lt;tr&gt;
-                                &lt;td rowspan=&quot;2&quot; class=&quot;core-course&quot;&gt;Freshman &lt;hr&gt; University Orientation&lt;br&gt;TROY 1101 (1)&lt;/td&gt;
+                                &lt;td rowspan=&quot;2&quot; class=&quot;core-course&quot;&gt;Freshman &lt;hr&gt; University Orientation&lt;br&gt;TROY1101(1)&lt;/td&gt;
                                 &lt;td class=&quot;core-course&quot;&gt;College Algebra&lt;br&gt;MTH 1112 (3)&lt;/td&gt;
                                 &lt;td class=&quot;core-course&quot;&gt;Biology &amp; Lab&lt;br&gt;BIO 1100 (4)&lt;/td&gt;
                                 &lt;td class=&quot;core-course&quot;&gt;Composition I &lt;br&gt;ENG 1101 (3)&lt;/td&gt;
