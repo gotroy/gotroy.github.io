@@ -231,6 +231,15 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     background-color: #e38d13;
 }
 
+.select-course-table {
+    color:#e38d13 ;
+    background-color: #6d0017;
+}
+
+.table > tbody > tr > .college-state-table {
+    line-height:110px;
+}
+
 .area-nav {
     text-align: center;
 }
