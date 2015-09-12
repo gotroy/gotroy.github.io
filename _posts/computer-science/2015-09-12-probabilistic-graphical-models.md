@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes of Probabilistic Graphical Models
+title: Notes of Probabilistic Graphical Models (CS6649-TRAA)
 tagline: CS 6649 TRAA
 
 ---
@@ -21,7 +21,7 @@ tagline: CS 6649 TRAA
 
 ##### Course Map:
 
-- Bayesian network
+- [Bayesian network](/2015/09/12/bayesian-network.html)
 - Hidden Markov model
 - Conditional random field
 
@@ -33,6 +33,14 @@ tagline: CS 6649 TRAA
 2. Implementation of NeticaJ library
 
 ---
+
+##### Resources:
+
+- [Introduction to probability](https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmms0pehfk2em/cs229prob.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&Expires=1442098761&Signature=T81x%2Fbe%2BOHTDQz8WOPUiMaNfy5Y%3D)
+- [Introduction to Graphical_Models (including Bayesian Networks).pdf](https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmms44wwdl4f4/Graphical_Models.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&Expires=1442098789&Signature=tdELCgtvXbCtfNZ%2F7phKOqaGXBs%3D)
+- [Another probability introduction](https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmms60sf334fd/lec_08_26_20132.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&Expires=1442098809&Signature=Q5IDpGjHMXJvVmQ3exkagaFPmRE%3D)
+- [Another tutorial on Bayesian Nets](https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmmsa2r8zf3op/lecture12.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&Expires=1442098827&Signature=0dQeMIm9pFAjQouIKF7qLyFl2eQ%3D)
+- [Inference in Bayesian Nets](https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmmsbraelv65x/problecture06.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&Expires=1442098844&Signature=FWFQika6SmMo9tXjeoO1CuHqn1k%3D)
 
 ##### Author:
 

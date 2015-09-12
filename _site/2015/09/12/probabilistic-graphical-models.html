@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Notes of Probabilistic Graphical Models (CS6649-TRAA)</title>
+  <meta name="description" content="">
+
+  <!--
+  <link rel="stylesheet" href="/css/main.css">
+  -->
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="/css/jumbotron.css">
+  <link rel="stylesheet" href="/css/carousel.css">
+  <link rel="stylesheet" href="/css/category.css">
+  <link rel="stylesheet" href="/css/gotroy.css">
+  <link rel="canonical" href="http://zhou-dong.github.io//2015/09/12/probabilistic-graphical-models.html">
+  <link rel="alternate" type="application/rss+xml" title="TROY" href="http://zhou-dong.github.io//feed.xml" />
+</head>
+
+
+    <body onload="initialize()">
+
+            <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">TROY</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    
+                        
+                    
+                        
+                            <li class=  >
+                                <a href="/home.html">Home</a>
+                            </li>
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                            <li class=  >
+                                <a href="/market.html">Market</a>
+                            </li>
+                        
+                    
+                        
+                            <li class=  >
+                                <a href="/restaurant.html">Restaurant</a>
+                            </li>
+                        
+                    
+                        
+                            <li class=  >
+                                <a href="/vacation.html">Vacation</a>
+                            </li>
+                        
+                    
+                    <li class=  >
+                        <a href="/2015/03/16/process-get-driver-license.html">Driver's License</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Other <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li class="dropdown-header">SSN</li>
+                            <li class="divider"></li>
+                            <li class="dropdown-header">Money Transfer</li>
+                            <li class="dropdown-header">Bank acount</li>
+                            <li class="dropdown-header">Credit Card</li>
+                            <li class="dropdown-header">Get Job</li>
+                            <li class="dropdown-header">Buy Car</li>
+                        </ul>
+                    </li>
+                </ul>
+                <div class="navbar-collapse collapse navbar-right">
+                    <a class="navbar-brand" href="/">About</a>
+                </div>
+            </div><!--/.navbar-collapse -->
+        </div>
+    </nav>
+
+
+        <div class="page-content">
+            <div class="wrapper">
+                <div class="container">
+
+    <div>
+        <h3 class="post-title">Notes of Probabilistic Graphical Models (CS6649-TRAA)</h3>
+    </div>
+
+    <!--
+    <div class="post-main-banner">
+        <img  src="">
+    </div>
+    -->
+
+    <article class="post-content">
+        <hr />
+
+<h5 id="course-info">Course Info:</h5>
+
+<ul>
+  <li>Course Name: Probabilistic Graphical Models </li>
+  <li>
+    <p>Processor: Karen Hovsepian</p>
+  </li>
+  <li>College: Troy University, Computer Science</li>
+  <li>Semester: Fall Semester 2015</li>
+  <li>Location: MSCX Math/Science, Room 218</li>
+  <li>Time: Thursday 05:30PM - 08:15PM</li>
+</ul>
+
+<hr />
+
+<h5 id="course-map">Course Map:</h5>
+
+<ul>
+  <li><a href="/2015/09/12/bayesian-network.html">Bayesian network</a></li>
+  <li>Hidden Markov model</li>
+  <li>Conditional random field</li>
+</ul>
+
+<hr />
+
+<h5 id="project">Project:</h5>
+
+<ol>
+  <li>Implementation of JavaBayes</li>
+  <li>Implementation of NeticaJ library</li>
+</ol>
+
+<hr />
+
+<h5 id="resources">Resources:</h5>
+
+<ul>
+  <li><a href="https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmms0pehfk2em/cs229prob.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&amp;Expires=1442098761&amp;Signature=T81x%2Fbe%2BOHTDQz8WOPUiMaNfy5Y%3D">Introduction to probability</a></li>
+  <li><a href="https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmms44wwdl4f4/Graphical_Models.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&amp;Expires=1442098789&amp;Signature=tdELCgtvXbCtfNZ%2F7phKOqaGXBs%3D">Introduction to Graphical_Models (including Bayesian Networks).pdf</a></li>
+  <li><a href="https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmms60sf334fd/lec_08_26_20132.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&amp;Expires=1442098809&amp;Signature=Q5IDpGjHMXJvVmQ3exkagaFPmRE%3D">Another probability introduction</a></li>
+  <li><a href="https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmmsa2r8zf3op/lecture12.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&amp;Expires=1442098827&amp;Signature=0dQeMIm9pFAjQouIKF7qLyFl2eQ%3D">Another tutorial on Bayesian Nets</a></li>
+  <li><a href="https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmmsbraelv65x/problecture06.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&amp;Expires=1442098844&amp;Signature=FWFQika6SmMo9tXjeoO1CuHqn1k%3D">Inference in Bayesian Nets</a></li>
+</ul>
+
+<h5 id="author">Author:</h5>
+
+<ul>
+  <li>Name: Dong Zhou</li>
+  <li>Email: rick0913@gmail.com</li>
+  <li><a href="http://zhou-dong.github.io">Website of Dong Zhou</a></li>
+</ul>
+
+    </article>
+
+    <!-- disqus display-->
+    <div id="disqus_thread"></div>
+
+</div>
+
+
+            </div>
+        </div>
+
+        <hr>
+
+<footer class="footer">
+    <div class="container">
+        <p class="pull-right">
+            <a href="#">Back to top</a>
+        </p>
+        <p class="text-muted">© TROY 2015</p>
+    </div>
+</footer>
+
+<script src="/js/jquery-2.1.3.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+
+<!-- google analytics-->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-60897821-1', 'auto');
+    ga('send', 'pageview');
+</script>
+
+<!-- comments by disqus -->
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'gotroy';
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+<!--google map api-->
+<!--
+<script type="text/javascript"
+    src = "http://maps.googleapis.com/maps/api/js?key=AIzaSyCCVaYry5FB7LNQyJIQt_gP-bsyzzG3YL8&sensor=FALSE">
+</script>
+-->
+
+
+    </body>
+
+</html>

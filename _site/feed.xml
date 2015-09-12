@@ -6,9 +6,92 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Jun 2015 22:42:12 -0500</pubDate>
-    <lastBuildDate>Sun, 28 Jun 2015 22:42:12 -0500</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2015 15:12:25 -0500</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2015 15:12:25 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Notes of Probabilistic Graphical Models (CS6649-TRAA)</title>
+        <description>&lt;hr /&gt;
+
+&lt;h5 id=&quot;course-info&quot;&gt;Course Info:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Course Name: Probabilistic Graphical Models &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Processor: Karen Hovsepian&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;College: Troy University, Computer Science&lt;/li&gt;
+  &lt;li&gt;Semester: Fall Semester 2015&lt;/li&gt;
+  &lt;li&gt;Location: MSCX Math/Science, Room 218&lt;/li&gt;
+  &lt;li&gt;Time: Thursday 05:30PM - 08:15PM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;course-map&quot;&gt;Course Map:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/2015/09/12/bayesian-network.html&quot;&gt;Bayesian network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hidden Markov model&lt;/li&gt;
+  &lt;li&gt;Conditional random field&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;project&quot;&gt;Project:&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Implementation of JavaBayes&lt;/li&gt;
+  &lt;li&gt;Implementation of NeticaJ library&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;resources&quot;&gt;Resources:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmms0pehfk2em/cs229prob.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&amp;amp;Expires=1442098761&amp;amp;Signature=T81x%2Fbe%2BOHTDQz8WOPUiMaNfy5Y%3D&quot;&gt;Introduction to probability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmms44wwdl4f4/Graphical_Models.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&amp;amp;Expires=1442098789&amp;amp;Signature=tdELCgtvXbCtfNZ%2F7phKOqaGXBs%3D&quot;&gt;Introduction to Graphical_Models (including Bayesian Networks).pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmms60sf334fd/lec_08_26_20132.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&amp;amp;Expires=1442098809&amp;amp;Signature=Q5IDpGjHMXJvVmQ3exkagaFPmRE%3D&quot;&gt;Another probability introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmmsa2r8zf3op/lecture12.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&amp;amp;Expires=1442098827&amp;amp;Signature=0dQeMIm9pFAjQouIKF7qLyFl2eQ%3D&quot;&gt;Another tutorial on Bayesian Nets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://s3.amazonaws.com/piazza-resources/idl50807mpy3uf/idmmsbraelv65x/problecture06.pdf?AWSAccessKeyId=AKIAJKOQYKAYOBKKVTKQ&amp;amp;Expires=1442098844&amp;amp;Signature=FWFQika6SmMo9tXjeoO1CuHqn1k%3D&quot;&gt;Inference in Bayesian Nets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;author&quot;&gt;Author:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Name: Dong Zhou&lt;/li&gt;
+  &lt;li&gt;Email: rick0913@gmail.com&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://zhou-dong.github.io&quot;&gt;Website of Dong Zhou&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 12 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://zhou-dong.github.io//2015/09/12/probabilistic-graphical-models.html</link>
+        <guid isPermaLink="true">http://zhou-dong.github.io//2015/09/12/probabilistic-graphical-models.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Notes of Bayesian network</title>
+        <description>&lt;hr /&gt;
+
+&lt;h5 id=&quot;course-info&quot;&gt;Course Info:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Course Name: &lt;a href=&quot;/2015/09/12/probabilistic-graphical-models.html&quot;&gt;Probabilistic Graphical Models&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Processor: Karen Hovsepian&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Sat, 12 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://zhou-dong.github.io//2015/09/12/bayesian-network.html</link>
+        <guid isPermaLink="true">http://zhou-dong.github.io//2015/09/12/bayesian-network.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Computer Science of Troy University</title>
@@ -1319,383 +1402,6 @@
         <pubDate>Tue, 17 Mar 2015 00:00:00 -0500</pubDate>
         <link>http://zhou-dong.github.io//2015/03/17/troy-alabama.html</link>
         <guid isPermaLink="true">http://zhou-dong.github.io//2015/03/17/troy-alabama.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Process to Get a Driver&#39;s License</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://media.al.com/news_impact/photo/driver-licensejpg-f8404aa701d3c72d.jpg&quot; width=&quot;33%&quot; style=&quot;border-radius:10px;&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Get a letter from International Student Services (Letter expires in 30 days).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;You need to have the following documents
-    &lt;ul&gt;
-      &lt;li&gt;the letter from step 1&lt;/li&gt;
-      &lt;li&gt;passport&lt;/li&gt;
-      &lt;li&gt;visa&lt;/li&gt;
-      &lt;li&gt;I-94&lt;/li&gt;
-      &lt;li&gt;I-20 or DS-2019&lt;/li&gt;
-      &lt;li&gt;Old American driver’s license (if you are renewing)&lt;/li&gt;
-      &lt;li&gt;the document from step 4&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;To get your I-94, go to &lt;a href=&quot;http://www.cbp.gov/travel/international-visitors/i-94-instructions&quot;&gt;U.S. Customs and Border Protection&lt;/a&gt; and fill the form. Print your I-94 and take it with you for SSN and license office.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;If you have a Social Security Number(SSN), you must take you SSN card. If you don’t have SSN, you have to go to the SSN office with all documents and letter to get a “Denial Letter” from them (which says that you are not eligible to SSN).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Take all the documents, letter, and denial letter to the Driver’s License Examiner’s Office to take the test to get a lincese.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Remember! You cannot drive on a learner’s permit, unless a person at least 18 years old with a driver’s license, is in the car with you.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Contact the insurance company before purchasing a vehicle and before driving car. If you buy a car you must buy insurance. Is is the law!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Prepared Material：&lt;a href=&quot;http://dps.alabama.gov/Documents/Manuals/DriverLicenseManual.pdf&quot;&gt;ALABAMA DRIVER MANUAL&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Address:
-    &lt;ul&gt;
-      &lt;li&gt;Montgomery
-        &lt;ul&gt;
-          &lt;li&gt;SSN Office: SUITE 100, 4344 CARMICHAEL RD, MONTGOMERY, AL 36106&lt;/li&gt;
-          &lt;li&gt;License Office: 1040 Coliseum Blvd. MONTGOMERY, AL 36106&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Dothan
-        &lt;ul&gt;
-          &lt;li&gt;SSN Office: 1778 Whatley Drive, Dothan, AL 36303&lt;/li&gt;
-          &lt;li&gt;License Office: State Troopers Office, 5679 Montgomery Highway Dothan, AL 36303&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;NOTE: You must have 160 days left on your I-20 to get Driver’s License or to renew it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Bofore go to test, you can practise at &lt;a href=&quot;http://driverslicensetest.net/dmv/alabama_drivers_test.php&quot;&gt;Practise Site&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;国际学生办公室开介绍信（去了以后填个表，第二天去拿介绍信就好；也可以直接问能不能现场给你开，很容易，几乎是随取随开）。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;考驾照所需的材料。
-    &lt;ul&gt;
-      &lt;li&gt;第一步开得介绍信&lt;/li&gt;
-      &lt;li&gt;护照&lt;/li&gt;
-      &lt;li&gt;VISA（其实就在护照里面）&lt;/li&gt;
-      &lt;li&gt;I-94&lt;/li&gt;
-      &lt;li&gt;F1的拿I-20; J1的拿DS-2019&lt;/li&gt;
-      &lt;li&gt;旧驾照。（如果是去更新驾照）&lt;/li&gt;
-      &lt;li&gt;第4步的材料。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;在 &lt;a href=&quot;http://www.cbp.gov/travel/international-visitors/i-94-instructions&quot;&gt;U.S. Customs and Border Protection&lt;/a&gt; 获取I-94。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;如果有SSN，直接拿着SSN去考试就可以了。如果没有SSN，需要先去“SSN Office”开一张没有SSN的证明。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;拿着所有的材料去考试就OK啦。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Learner的驾照是不能开车上路的，除非车里面有人有驾照，并且年满18岁。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;开车上路前必须要有车险。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;复习资料：&lt;a href=&quot;http://dps.alabama.gov/Documents/Manuals/DriverLicenseManual.pdf&quot;&gt;ALABAMA DRIVER MANUAL&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;离TROY最近的考驾照的地方一般是Montgomery或者Dothan。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;必须在I-20上的截止时间前160天以上才能考驾照或者是更新驾照。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;去机试以前，可以在&lt;a href=&quot;http://driverslicensetest.net/dmv/alabama_drivers_test.php&quot;&gt;Practise Site&lt;/a&gt;网站做练习。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;考试步骤&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;注意如果是近视，或者远视的同学一定不要忘记了带眼镜，如果视力测试不通过的话，是肯定不允许参加考试的，包括（机考和路考）。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;以去Dothan为例，到达Dothan以后：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;准备SSN相关的东西：
-    &lt;ul&gt;
-      &lt;li&gt;如果已经有了SSN，直接拿着SSN去考驾照的地方参加考试&lt;/li&gt;
-      &lt;li&gt;如果没有SSN，先去Social Security Administration Office获得证明&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;机考步骤：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;首先取号。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;填一个表格，包括体重，身高，…，。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;被叫到号以后，拿着填好的表格和准备的资料，交给工作人员。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;根据指示照驾照照片。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;视力检查。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;考官会询问你使用那种语言考试，建议选择中文。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;交钱，应该是5美元。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;去旁边的机器上考试。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;考完试以后，回去找考官，选择结束考试，只要learn驾照，或者继续路考。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;路考步骤：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;把陪考人的驾照、车险、Title交给考官。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;出门把车停到后面，等着考官。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;考官来了以后，会让你启动汽车。
-    &lt;ul&gt;
-      &lt;li&gt;这时如果是座椅不合适的话，可以调节座椅。&lt;/li&gt;
-      &lt;li&gt;然后&lt;code&gt;一定要注意系上安全带&lt;/code&gt;，否则的话，你基本就可以回家准备下一次考试了。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;检查转向灯和大灯：（如果你的英文交流有障碍，听不懂考官的要求的话，可能会被取消考试资格，当天不能再考）。
-    &lt;ul&gt;
-      &lt;li&gt;考官会走到车的后面，首先让你打左转向灯，然后让你打右转向灯。&lt;/li&gt;
-      &lt;li&gt;考官会走到车的前面，首先让你打左转向灯，然后让你打右转向灯，然后让你打开车前灯。&lt;/li&gt;
-      &lt;li&gt;考官会上车，可能会让你检查雨刷器。&lt;/li&gt;
-      &lt;li&gt;检查喇叭。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;放下手刹开始考试。注意：&lt;code&gt;遇到stop sign一定要停下来看看有没有车，没车再走&lt;/code&gt;。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;检查刹车。刚行驶不久，可能会让你刹车，是为了检查刹车的情况。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;检查倒车。然后，应该会让你倒一段车，检查倒车技术。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;检查3点倒车。开到另一段路上，让你转向往回开。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;检查下坡停车。如果是停在下坡路的话，要把方向盘向右打。(上下坡停车的目的是要保证停好车以后，车如果打滑的话，不会滑到路中间)。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;检查在小路上开车的情况。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;检查在高速上开车。可能会让你开上高速，然后检查在高速上开车的情况。 &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;记住首先安全第一，然后照着考官的要求，正常开车就OK了。&lt;/li&gt;
-  &lt;li&gt;如果准备充分的话，应该会一次通过的。笔者就是虽然开始考试的时候挺紧张，但也一次通过了。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 16 Mar 2015 00:00:00 -0500</pubDate>
-        <link>http://zhou-dong.github.io//2015/03/16/process-get-driver-license.html</link>
-        <guid isPermaLink="true">http://zhou-dong.github.io//2015/03/16/process-get-driver-license.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Troy University</title>
-        <description>&lt;div id=&quot;myCarousel&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-    &lt;!-- Indicators --&gt;
-    &lt;ol class=&quot;carousel-indicators&quot;&gt;
-        &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-        &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-        &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-    &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
-        &lt;div class=&quot;item active&quot;&gt;
-            &lt;img src=&quot;https://scontent.xx.fbcdn.net/hphotos-xpa1/t31.0-8/1900624_10152539197649150_2678482372344649265_o.jpg&quot; alt=&quot;Troy fans&quot;&gt;
-                &lt;div class=&quot;container&quot;&gt;
-                    &lt;div class=&quot;carousel-caption&quot;&gt;
-                        &lt;!--
-                        &lt;h1&gt;Troy fans&lt;/h1&gt;
-                        &lt;p&gt;&lt;a class=&quot;btn btn-lg btn-primary&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;Sign up today&lt;/a&gt;&lt;/p&gt;
-                        --&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;/div&gt;
-        &lt;div class=&quot;item&quot;&gt;
-            &lt;img src=&quot;https://scontent.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/644722_10151425093179150_431431234_n.jpg?oh=ab02d4fa1f52fae4efe4805eba0995a2&amp;oe=55803E42&quot; alt=&quot;troy fans&quot;&gt;
-                &lt;div class=&quot;container&quot;&gt;
-                    &lt;div class=&quot;carousel-caption&quot;&gt;
-                        &lt;!--
-                        &lt;p&gt;&lt;code&gt;&quot;Hello world!&quot; &lt;/code&gt;&lt;/p&gt;
-                        &lt;p&gt;Troy fans&lt;/p&gt;
-                        &lt;p&gt;&lt;a class=&quot;btn btn-lg btn-primary&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;Learn more&lt;/a&gt;&lt;/p&gt;
-                        --&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;/div&gt;
-        &lt;div class=&quot;item&quot;&gt;
-            &lt;img src=&quot;https://scontent.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/1175146_10151618704339150_936755470_n.jpg?oh=7b830eb1159a4dc25dcd634b14320576&amp;oe=558311DF&quot; alt=&quot;troy fans&quot;&gt;
-                &lt;div class=&quot;container&quot;&gt;
-                    &lt;div class=&quot;carousel-caption&quot;&gt;
-                        &lt;!--
-                        &lt;h1&gt;lovely fan&lt;/h1&gt;
-                        &lt;p&gt;&lt;a class=&quot;btn btn-lg btn-primary&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;Browse gallery&lt;/a&gt;&lt;/p&gt;
-                        --&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class=&quot;left carousel-control&quot; href=&quot;#myCarousel&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-        &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-    &lt;/a&gt;
-    &lt;a class=&quot;right carousel-control&quot; href=&quot;#myCarousel&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-        &lt;span class=&quot;glyphicon glyphicon-chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-    &lt;/a&gt;
-&lt;/div&gt;&lt;!-- /.carousel --&gt;
-
-
-
-&lt;div class=&quot;container marketing&quot;&gt;
-    
-    &lt;!-- Three columns of text below the carousel --&gt;
-    &lt;!--
-    &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-lg-4&quot;&gt;
-            &lt;img class=&quot;img-circle&quot; src=&quot;http://www.japanworld.it/image/cache/data/test/33744-500x500.jpg&quot; alt=&quot;zhong image&quot; style=&quot;width: 140px; height: 140px;&quot;&gt;
-                &lt;h2&gt;Dr Zhong&lt;/h2&gt;
-                &lt;p&gt;
-                    Dr zhong
-                &lt;/p&gt;
-                &lt;p&gt;&lt;a class=&quot;btn btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-lg-4&quot;&gt;
-            &lt;img class=&quot;img-circle&quot; src=&quot;http://www.japanworld.it/image/cache/data/test/33744-500x500.jpg&quot; alt=&quot;mago image&quot; style=&quot;width: 140px; height: 140px;&quot;&gt;
-                &lt;h2&gt;Dr Mago&lt;/h2&gt;
-                &lt;p&gt;
-                    Dr Mago
-                &lt;/p&gt;
-                &lt;p&gt;&lt;a class=&quot;btn btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-lg-4&quot;&gt;
-            &lt;img class=&quot;img-circle&quot; src=&quot;http://www.japanworld.it/image/cache/data/test/33744-500x500.jpg&quot; alt=&quot;kumar image&quot; style=&quot;width: 140px; height: 140px;&quot;&gt;
-                &lt;h2&gt;Dr Kumar&lt;/h2&gt;
-                &lt;p&gt;
-                    Dr Kumar
-                &lt;/p&gt;
-                &lt;p&gt;&lt;a class=&quot;btn btn-success&quot; href=&quot;#&quot; role=&quot;button&quot;&gt;View details &amp;raquo;&lt;/a&gt;&lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;hr class=&quot;featurette-divider&quot;&gt;
-    --&gt;
-    
-    &lt;div class=&quot;row featurette&quot;&gt;
-        &lt;div class=&quot;col-md-5&quot;&gt;
-            &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://www.cs.mcgill.ca/static/img/area/probabilistic_analysis_of_algorithms.jpg&quot; alt=&quot;cs5549&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-md-7&quot;&gt;
-            &lt;h2 class=&quot;featurette-heading&quot;&gt;Analysis of Algorithms&lt;/h2&gt;
-            &lt;h3&gt;CS3329/CS5549-TBAA&lt;/h3&gt;
-            &lt;p class=&quot;lead&quot;&gt;
-            This course will provide a rigorous introduction to the design and analysis of algorithms.
-            We will discuss classic problems (e.g., sorting, traveling salesman problem),
-            classic algorithm design strategies (e.g., divide-and-conquer, greedy approaches),
-            and classic algorithms and data structures (e.g., hash tables, Dijkstra&#39;s algorithm).
-            We will also analyze algorithm complexity throughout, and touch on issues of tractability such as &quot;NP-Completeness&quot;.
-            &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;hr class=&quot;featurette-divider&quot;&gt;
-
-    &lt;div class=&quot;row featurette&quot;&gt;
-        &lt;div class=&quot;col-md-7&quot;&gt;
-            &lt;h2 class=&quot;featurette-heading&quot;&gt;Bioinformatics Algorithm &lt;/h2&gt;
-            &lt;h3&gt;Speical Topics CS6649-TXAD&lt;/h3&gt;
-            &lt;p class=&quot;lead&quot;&gt;
-            This course will introduce students to bioinformatics - the area concerning the development and
-            application of computational methods to address key problem in biology. It will introduce the students
-            to a variety of methods and skills required to conduct research in this highly rising field. The emphasis
-            of the course is structural bioinformatics with focus on various computational methods to simulate, 
-            analyze and model protein structure, dynamics and function. Other subjects such as systems biology,
-            genomics and interaction networks will be introduced as well.
-            &lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-md-5&quot;&gt;
-            &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://www.rcsb.org/pdb/images/4ldb_bio_r_500.jpg&quot; alt=&quot;cs6649&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;hr class=&quot;featurette-divider&quot;&gt;
-    
-    &lt;div class=&quot;row featurette&quot;&gt;
-        &lt;div class=&quot;col-md-5&quot;&gt;
-            &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://img.scoop.it/8HmioY7oPrQD1ZIh6jINQzl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9&quot; alt=&quot;cs6649&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-md-7&quot;&gt;
-            &lt;h2 class=&quot;featurette-heading&quot;&gt;Graphical Data Mining &lt;/h2&gt;
-            &lt;h3&gt;CS 6649-TXAA&lt;/h3&gt;
-            &lt;p class=&quot;lead&quot;&gt;
-            This course is a graduate-level course that provides practical knowledge to extract information from graphical data.
-            Graph mining covers many basic and advanced techniques for the identification of anomalous or frequently recurring 
-            patterns in a graph, the discovery of groups or clusters of nodes that share common patterns of attributes and relationships,
-            the extraction of patterns that distinguish one category of graphs from another, and the use f those patterns to predict the
-            category of new graphs. Algorithm will be implemented in R programming.
-            &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;!-- /END THE FEATURETTES --&gt;
-    
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sun, 15 Mar 2015 00:00:00 -0500</pubDate>
-        <link>http://zhou-dong.github.io//2015/03/15/troy-university.html</link>
-        <guid isPermaLink="true">http://zhou-dong.github.io//2015/03/15/troy-university.html</guid>
         
         
       </item>
