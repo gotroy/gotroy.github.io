@@ -4,6 +4,8 @@ title: Notes of Bayesian network
 
 ---
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 ---
 
 ##### Course Info:
@@ -12,3 +14,21 @@ title: Notes of Bayesian network
 - Processor: Karen Hovsepian
 
 ---
+
+$$
+
+a^7 = b^5 \\
+c^2 = c_{4}
+
+$$
+
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"/>
+
+ddddddd
+
+$$
+
+a^7 = b^5 \\
+c^2 = c_{4}
+
+$$
