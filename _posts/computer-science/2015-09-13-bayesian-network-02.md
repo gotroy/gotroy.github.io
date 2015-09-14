@@ -26,7 +26,7 @@ title: Notes of Bayesian network (class Two)
 <!----------------------------------------- Definition of Bayesian Networks ----------------------------------->
 <div>
     <p class="index-image">Definition of Bayesian Networks</p>
-    <img style="display: none" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nr3iafxp3ax/MobilePhotoUpload.jpeg" alt="bayes network img" />
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nr3iafxp3ax/MobilePhotoUpload.jpeg" alt="bayes network img" />
 </div>
 $$
 BN = \{\{A,B,C \},\{D_A,D_B,D_C\},\{P_{aB}=\{A\},P_{aA}=\varnothing,P_{aC}=\{A\}\}, \{P(A),P(B|A),P(C|A)\} \}
@@ -69,7 +69,7 @@ $$
 <!----------------------------------------- joint probability 1 ----------------------------------->
 <div>
     <p class="index-image">Joint Probability one</p>
-    <img style="display: none" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nr1xgni53ak/MobilePhotoUpload.jpeg" alt="joint probability" />
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nr1xgni53ak/MobilePhotoUpload.jpeg" alt="joint probability" />
 </div>
 
 $$
@@ -104,7 +104,7 @@ $$
 <!----------------------------------------- joint probability 2 ----------------------------------->
 <div>
     <p class="index-image">Joint Probability two</p>
-    <img style="display: none" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nqzbp7fvpw/MobilePhotoUpload.jpeg" alt="joint probability" />
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nqzbp7fvpw/MobilePhotoUpload.jpeg" alt="joint probability" />
 </div>
 
 $$
@@ -128,7 +128,7 @@ $$
 <!----------------------------------------- joint probability 3 ----------------------------------->
 <div>
     <p class="index-image">Others</p>
-    <img style="display: none" height="600px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nqz34yz1aw/MobilePhotoUpload.jpeg" alt="joint probability" />
+    <img style="display: block" height="600px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nqz34yz1aw/MobilePhotoUpload.jpeg" alt="joint probability" />
 </div>
 
 $$\sum_c:$$ over all values of $$C$$

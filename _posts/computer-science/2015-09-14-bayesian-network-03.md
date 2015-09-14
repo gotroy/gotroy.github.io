@@ -23,6 +23,10 @@ title: Notes of Bayesian network (class Three)
 
 ---
 
+<div>
+    <p class="index-image">Definition of Bayesian Networks</p>
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nr3iafxp3ax/MobilePhotoUpload.jpeg" alt="bayes network img" />
+</div>
 
 
 <script src="/js/jquery-2.1.3.min.js"></script>

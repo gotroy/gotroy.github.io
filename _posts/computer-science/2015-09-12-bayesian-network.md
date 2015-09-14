@@ -26,7 +26,7 @@ title: Notes of Bayesian network (class one)
 <!----------------------------------------- Example of Bayesian Networks ----------------------------------->
 <div>
     <p class="index-image">Example of Bayesian Networks</p>
-    <img style="display: none" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmndcbcl5677u/MobilePhotoUpload.jpeg" alt="bayes network img" />
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmndcbcl5677u/MobilePhotoUpload.jpeg" alt="bayes network img" />
 </div>
 
 $$P(I)$$ Distribution of Intelligence: H:(High) A:(Average) L:(Low)  
@@ -126,7 +126,7 @@ $$
 <!----------------------------------------- Definition of Bayesian Networks ----------------------------------->
 <div>
     <p class="index-image">Definition of Bayesian Networks</p>
-    <img style="display: none" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nr3iafxp3ax/MobilePhotoUpload.jpeg" alt="bayes network img" />
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nr3iafxp3ax/MobilePhotoUpload.jpeg" alt="bayes network img" />
 </div>
 $$
 BN = \{\{A,B,C \},\{D_A,D_B,D_C\},\{P_{aB}=\{A\},P_{aA}=\varnothing,P_{aC}=\{A\}\}, \{P(A),P(B|A),P(C|A)\} \}
@@ -161,11 +161,11 @@ $$
 <!----------------------------------------- Relations in Bayesian Networks ----------------------------------->
 <div>
     <p class="index-image">Relaionships in Bayesian Networks 1</p>
-    <img style="display: none" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmnd7ivqs7776/MobilePhotoUpload.jpeg" alt="marginal bayesions" />
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmnd7ivqs7776/MobilePhotoUpload.jpeg" alt="marginal bayesions" />
 </div>
 <div>
     <p class="index-image">Relaionships in Bayesian Networks 2</p>
-    <img style="display: none" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmnd3gunug5tg/MobilePhotoUpload.jpeg" alt="relations of bayesions" />
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmnd3gunug5tg/MobilePhotoUpload.jpeg" alt="relations of bayesions" />
 </div>
 
 Mathematical Definition:
@@ -180,7 +180,7 @@ $$P(X,Y) = P(X) \times P(Y)$$ `if` $$ X \bot Y$$
 
 <div>
     <p class="index-image">Relaionships in Bayesian Networks 3</p>
-    <img style="display: none" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmncyw3u9t75v/MobilePhotoUpload.jpeg" alt="relations of bayesians" />
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmncyw3u9t75v/MobilePhotoUpload.jpeg" alt="relations of bayesians" />
 </div>
 
 Unconditional Dependence:
@@ -194,7 +194,7 @@ $$Y \bot Z \ | \ X $$ [ $$Y$$ and $$Z$$ are independent when given by X ].
 <!----------------------------------------- Mariginal Distributions 1 ----------------------------------->
 <div>
     <p class="index-image">Marginal Distributions 1 </p>
-    <img style="display: none" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmndd62fly7g9/MobilePhotoUpload.jpeg" alt="marginal distributions" />
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmndd62fly7g9/MobilePhotoUpload.jpeg" alt="marginal distributions" />
 </div>
 $$P(X)$$ means probability distribution of X for every value of X
 
@@ -230,7 +230,7 @@ $$
 <!----------------------------------------- Mariginal Distributions 2 ----------------------------------->
 <div>
     <p class="index-image">Marginal Distributions 2</p>
-    <img style="display: none" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmndcxnql781/MobilePhotoUpload.jpeg" alt="marginal distributions" />
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmndcxnql781/MobilePhotoUpload.jpeg" alt="marginal distributions" />
 </div>
 $$
 \sum_{I}P(I) = 1 \\ 
@@ -245,7 +245,7 @@ $$
 <!----------------------------------------- Mariginal Distributions 3 ----------------------------------->
 <div>
     <p class="index-image">Marginal Distributions 3</p>
-    <img style="display: none" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmnd3n9o5c7ez/MobilePhotoUpload.jpeg" alt="marginal distributions" />
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmnd3n9o5c7ez/MobilePhotoUpload.jpeg" alt="marginal distributions" />
 </div>
 $$
 \hat X = \operatorname{arg}\max(P(X))
