@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Notes of Bayesian network</title>
+  <title>Notes of Bayesian network (class one)</title>
   <meta name="description" content="">
 
   <!--
@@ -100,7 +100,7 @@
                 <div class="container">
 
     <div>
-        <h3 class="post-title">Notes of Bayesian network</h3>
+        <h3 class="post-title">Notes of Bayesian network (class one)</h3>
     </div>
 
     <!--
@@ -110,7 +110,16 @@
     -->
 
     <article class="post-content">
-        <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        <style type="text/css">
+    .index-image{
+        color: blue;
+    }
+    .index-image:hover{
+        cursor: pointer;
+    }
+</style>
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 <hr />
 
@@ -123,23 +132,252 @@
 
 <hr />
 
-<script type="math/tex; mode=display">
+<!----------------------------------------- Example of Bayesian Networks ----------------------------------->
+<div>
+    <p class="index-image">Example of Bayesian Networks</p>
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmndcbcl5677u/MobilePhotoUpload.jpeg" alt="bayes network img" />
+</div>
 
-a^7 = b^5 \\
-c^2 = c_{4}
+<p><script type="math/tex">P(I)</script> Distribution of Intelligence: H:(High) A:(Average) L:(Low)<br />
+<script type="math/tex">% <![CDATA[
 
+\begin{array}{|c|c|} \hline
+P(I=H) & 0.2\\
+\hline
+P(I=A) & 0.6\\
+\hline
+P(I=L) & 0.2\\
+\hline
+\end{array}
+ %]]></script></p>
+
+<p><script type="math/tex">P(D)</script> Distribution of Difficulty: L:(Low) H:(High)<br />
+<script type="math/tex">% <![CDATA[
+
+\begin{array}{|c|c|} \hline
+P(D=L) & 0.6\\
+\hline
+P(D=H) & 0.4\\
+\hline
+\end{array}
+ %]]></script></p>
+
+<p><script type="math/tex">P(S|I)</script> Distribution of SAT given by Intelligence: H:(High) M:(Middem) L:(Low)<br />
+<script type="math/tex">% <![CDATA[
+
+\begin{array}{|c|c|c|c|} \hline I & P(S=H) & P(S=M) & P(S=L) \\
+\hline
+H & 0.7 & 0.2 & 0.1 \\
+\hline
+A & 0.2 & 0.6 & 0.2 \\
+\hline
+L & 0.2 & 0.4 & 0.4 \\
+\hline
+\end{array}
+ %]]></script></p>
+
+<p><script type="math/tex">P(G|I,D)</script> Distribution of Grade given by Intelligence and Difficulty: H:(High) M:(Middem) L:(Low)<br />
+<script type="math/tex">% <![CDATA[
+
+\begin{array}{|c|c|c|c|c|} \hline I & D & P(G=H) & P(G=M) & P(G=L) \\
+\hline
+H  & L & 0.8 & 0.15 & 0.05 \\
+\hline
+H  & H & 0.6 & 0.3 & 0.1 \\
+\hline
+A & L & 0.3 & 0.5 & 0.2 \\
+\hline
+A & H & 0.2 & 0.7 & 0.1 \\
+\hline
+L & L & 0.2 & 0.6 & 0.2 \\
+\hline
+L & H & 0.2 & 0.4 & 0.4 \\
+\hline
+\end{array}
+ %]]></script></p>
+
+<p><script type="math/tex">P(L|G)</script> Distribution of Letter given by Grade: G:(Good) A:(Average) B:(Bad)<br />
+<script type="math/tex">% <![CDATA[
+
+\begin{array}{|c|c|c|c|} \hline G & P(L=G) & P(L=A) & P(L=B) \\
+\hline
+H & 0.9 & 0.09 & 0.01 \\
+\hline
+A & 0.6 & 0.3 & 0.1 \\
+\hline
+L & 0.1 & 0.3 & 0.6 \\
+\hline
+\end{array}
+ %]]></script></p>
+
+<p><script type="math/tex">P(J|S,L)</script> Distribution of Job given by SAT and Letter: Y:(yes) N:(No)<br />
+<script type="math/tex">% <![CDATA[
+
+\begin{array}{|c|c|c|c|} \hline S & L & P(J=Y) & P(J=N) \\
+\hline
+H & G & 0.99 & 0.01 \\
+\hline
+M & G & 0.9 & 0.1 \\
+\hline
+L & G & 0.8 & 0.5 \\
+\hline
+H & A & 0.8 & 0.5 \\
+\hline
+M & A & 0.5 & 0.5 \\
+\hline
+L & A & 0.4 & 0.6 \\
+\hline
+H & B & 0.5 & 0.5 \\
+\hline
+M & B & 0.3 & 0.7 \\
+\hline
+L & B & 0.1 & 0.9 \\
+\hline
+\end{array}
+ %]]></script></p>
+
+<!----------------------------------------- Example of Bayesian Networks ----------------------------------->
+
+<!----------------------------------------- Definition of Bayesian Networks ----------------------------------->
+<div>
+    <p class="index-image">Definition of Bayesian Networks</p>
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nr3iafxp3ax/MobilePhotoUpload.jpeg" alt="bayes network img" />
+</div>
+<p><script type="math/tex">
+BN = \{\{A,B,C \},\{D_A,D_B,D_C\},\{P_{aB}=\{A\},P_{aA}=\varnothing,P_{aC}=\{A\}\}, \{P(A),P(B|A),P(C|A)\} \}
+</script></p>
+
+<p><script type="math/tex">\{A,B,C\}</script> means: This net network has <strong>3</strong> nodes(variables) which were <script type="math/tex"> A,B,</script> and <script type="math/tex">C</script></p>
+
+<p><script type="math/tex">\{D_A,D_B,D_C\} </script> means: Different variables could have different size of dimensions.</p>
+
+<p><script type="math/tex">\{P_{aB}=\{A\},P_{aA}=\varnothing,P_{aC}=\{A\}\} </script>: Distribution of variables’ values depend on parents distribution.</p>
+
+<p><script type="math/tex">\{ P(A), P(B|A), P(C|A) \}</script>
+Calculat the distribution values of different variables.</p>
+
+<p>Dimensions of <script type="math/tex">A,B,C</script>:<br />
+<script type="math/tex">|D_A| = 3</script>,<br />
+<script type="math/tex">|D_B| = 5</script>,<br />
+<script type="math/tex">|D_C| = 2</script></p>
+
+<p>Distribution size of 
+<script type="math/tex">\{P(A),P(B|A),P(C|A)\}</script>:<br />
+<script type="math/tex">P(A) \leftarrow 1 \times |D_A|</script>,<br />
+<script type="math/tex">P(B|A) \leftarrow |D_B| \times |D_A| </script>,<br />
+<script type="math/tex">P(C|A) \leftarrow |D_C| \times |D_A| </script></p>
+
+<p>Find the arguments of c, let the <script type="math/tex">P(C)</script> to be maximize: <br />
+<script type="math/tex">
+\hat c = \operatorname{arg}\max(P(C))
+</script>
+<!----------------------------------------- Definition of Bayesian Networks -----------------------------------></p>
+
+<!----------------------------------------- Relations in Bayesian Networks ----------------------------------->
+<div>
+    <p class="index-image">Relaionships in Bayesian Networks 1</p>
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmnd7ivqs7776/MobilePhotoUpload.jpeg" alt="marginal bayesions" />
+</div>
+<div>
+    <p class="index-image">Relaionships in Bayesian Networks 2</p>
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmnd3gunug5tg/MobilePhotoUpload.jpeg" alt="relations of bayesions" />
+</div>
+
+<p>Mathematical Definition:</p>
+
+<p>Unconditional Independent:
+<script type="math/tex"> X \bot Y \ \Leftarrow \ P(Y|X) = P(Y) </script></p>
+
+<p>Conditional Dependence:
+<script type="math/tex"> X (\lnot \bot) Y \ \Leftarrow \ P(Y|X) \ne P(Y) </script></p>
+
+<p><script type="math/tex">P(X,Y) = P(X) \times P(Y)</script> <code>if</code> <script type="math/tex"> X \bot Y</script></p>
+
+<div>
+    <p class="index-image">Relaionships in Bayesian Networks 3</p>
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmncyw3u9t75v/MobilePhotoUpload.jpeg" alt="relations of bayesians" />
+</div>
+
+<p>Unconditional Dependence:
+<script type="math/tex">P(Y|Z) \ne P(Y) </script> where both <script type="math/tex">Z</script> and <script type="math/tex">Y</script> denpent on <script type="math/tex">X</script></p>
+
+<p>Conditional Independence:
+<script type="math/tex">Y \bot Z \ | \ X </script> [ <script type="math/tex">Y</script> and <script type="math/tex">Z</script> are independent when given by X ].</p>
+
+<!----------------------------------------- Relations in Bayesian Networks ----------------------------------->
+
+<!----------------------------------------- Mariginal Distributions 1 ----------------------------------->
+<div>
+    <p class="index-image">Marginal Distributions 1 </p>
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmndd62fly7g9/MobilePhotoUpload.jpeg" alt="marginal distributions" />
+</div>
+<p><script type="math/tex">P(X)</script> means probability distribution of X for every value of X</p>
+
+<p><script type="math/tex">\sum_{x}P(x)=1</script> which means:</p>
+
+<pre>
+total = 0
+for each X in (sum):
+    total += P(X)
+total == 1 (True)
+</pre>
+
+<p>Distribution of X and Y:
+<script type="math/tex">% <![CDATA[
+
+\begin{array}{|c|c|c|} \hline & y=Y & y=N \\
+\hline
+x=Y & 0.3 & 0.2\\
+\hline
+x=N & 0.1 & 0.4\\
+\hline
+\end{array}
+ %]]></script></p>
+
+<p>Marginal Distributions:
+<script type="math/tex">
+P(x=Y) = 0.3 + 0.2 = 0.5 \\
+P(x=N) = 0.1 + 0.4 = 0.5 \\
+P(y=Y) = 0.3 + 0.1 = 0.4 \\
+P(y=N) = 0.2 + 0.4 = 0.6
+</script>
+<!----------------------------------------- Mariginal Distributions 1 -----------------------------------></p>
+
+<!----------------------------------------- Mariginal Distributions 2 ----------------------------------->
+<div>
+    <p class="index-image">Marginal Distributions 2</p>
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmndcxnql781/MobilePhotoUpload.jpeg" alt="marginal distributions" />
+</div>
+<p><script type="math/tex">
+\sum_{I}P(I) = 1 \\ 
+P(I=H) = \cfrac{\#  of \ instance \ in (I=H)}{\# of \ instances \ in \ \sum} \\
+P(I=A) = \cfrac{\#  of \ instance \ in (I=A)}{\# of \ instances \ in \ \sum} \\
+P(I=L) = \cfrac{\#  of \ instance \ in (I=L)}{\# of \ instances \ in \ \sum} \\
+P(I=H) + P(I=A) + P(I=L) = \cfrac{\#  of \ instance \ in (I=H) + \#  of \ instance \ in (I=A) + \#  of \ instance \ in (I=L)}{\# of \ instances \ in \ \sum}
+= \cfrac{\# of \ instances \ in \ \sum}{\# of \ instances \ in \ \sum} = 1
+</script>
+<!----------------------------------------- Mariginal Distributions 2 -----------------------------------></p>
+
+<!----------------------------------------- Mariginal Distributions 3 ----------------------------------->
+<div>
+    <p class="index-image">Marginal Distributions 3</p>
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/idmncuax9e47dh/idmnd3n9o5c7ez/MobilePhotoUpload.jpeg" alt="marginal distributions" />
+</div>
+<p><script type="math/tex">
+\hat X = \operatorname{arg}\max(P(X))
+</script></p>
+
+<p>Find the arguments of X, let the <script type="math/tex">P(X)</script> to be maximize: <br />
+<!----------------------------------------- Mariginal Distributions 3 -----------------------------------></p>
+
+<script src="/js/jquery-2.1.3.min.js"></script>
+
+<script type="text/javascript">
+$(".index-image").click(function(){
+    $(this).next().toggle() ;
+});
 </script>
 
-<p><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" /></p>
-
-<p>ddddddd</p>
-
-<script type="math/tex; mode=display">
-
-a^7 = b^5 \\
-c^2 = c_{4}
-
-</script>
 
     </article>
 
