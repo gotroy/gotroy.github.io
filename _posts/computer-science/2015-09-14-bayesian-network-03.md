@@ -25,17 +25,23 @@ title: Notes of Bayesian network (class Three)
 
 <div>
     <p class="index-image">Use Dynamic Programming to optimize Bayesian Networks</p>
-    <!--
-    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nr3iafxp3ax/MobilePhotoUpload.jpeg" alt="bayes network img" />
-    -->
+    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nqzbp7fvpw/MobilePhotoUpload.jpeg" alt="bayes network img" />
 </div>
+
+In some senario, we could use dynamic programming to optimize Bayesian Networks calcultion.
 
 <div>
     <p class="index-image">Use Maximum likelihood Estimation to training data</p>
-    <!--
-    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nr3iafxp3ax/MobilePhotoUpload.jpeg" alt="bayes network img" />
-    -->
 </div>
+
+In Machine Learning, the Size of trainning set must larger than the variables, otherwise result could be overfitting!
+
+In the training process, we should calculate the distance between y and f(x), we could use:
+
+- **Squares Error** in Linear Regression or 
+- **Maximum likelihood** in Logistic Regression
+
+In Bayesian Networks, we also use **Maximum likelihood** to measure the distance between y and f(x)
 
 <div>
     <p class="index-image">Use NeticaJ library to implement Bayesian Networks</p>
@@ -43,6 +49,8 @@ title: Notes of Bayesian network (class Three)
     <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nr3iafxp3ax/MobilePhotoUpload.jpeg" alt="bayes network img" />
     -->
 </div>
+
+It is a Java library to implement calculation of Bayesian Networks.
 
 <script src="/js/jquery-2.1.3.min.js"></script>
 <script type="text/javascript">
