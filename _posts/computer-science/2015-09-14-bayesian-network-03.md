@@ -58,6 +58,10 @@ Run configuration: VM arguments:
 
 -Djava.library.path=/Users/dongdong/Downloads/NeticaJ_504/bin
 
+
+- If the training set is equal than the parameters will result memorialize
+- If the training set is less than paraeters will result overfitting
+
 <script src="/js/jquery-2.1.3.min.js"></script>
 <script type="text/javascript">
 $(".index-image").click(function(){
