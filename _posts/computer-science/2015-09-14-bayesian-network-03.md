@@ -52,6 +52,12 @@ In Bayesian Networks, we also use **Maximum likelihood** to measure the distance
 
 It is a Java library to implement calculation of Bayesian Networks.
 
+In the Eclipse, config the Run Configuration:
+
+Run configuration: VM arguments:
+
+-Djava.library.path=/Users/dongdong/Downloads/NeticaJ_504/bin
+
 <script src="/js/jquery-2.1.3.min.js"></script>
 <script type="text/javascript">
 $(".index-image").click(function(){
