@@ -171,10 +171,10 @@ $$
 Mathematical Definition:
 
 Unconditional Independent:
-$$ X \bot Y \ \Leftarrow \ P(Y|X) = P(Y) $$
+$$ X \bot Y \ \Leftrightarrow \ P(Y|X) = P(Y) $$
 
 Conditional Dependence:
-$$ X (\lnot \bot) Y \ \Leftarrow \ P(Y|X) \ne P(Y) $$
+$$ X (\lnot \bot) Y \ \Leftrightarrow \ P(Y|X) \ne P(Y) $$
 
 $$P(X,Y) = P(X) \times P(Y)$$ `if` $$ X \bot Y$$
 
