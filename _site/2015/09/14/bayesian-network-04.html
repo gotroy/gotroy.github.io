@@ -18,7 +18,7 @@
   <link rel="stylesheet" href="/css/carousel.css">
   <link rel="stylesheet" href="/css/category.css">
   <link rel="stylesheet" href="/css/gotroy.css">
-  <link rel="canonical" href="http://zhou-dong.github.io//2015/09/14/bayesian-network-03.html">
+  <link rel="canonical" href="http://zhou-dong.github.io//2015/09/14/bayesian-network-04.html">
   <link rel="alternate" type="application/rss+xml" title="TROY" href="http://zhou-dong.github.io//feed.xml" />
 </head>
 
@@ -137,42 +137,13 @@
     <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nqzbp7fvpw/MobilePhotoUpload.jpeg" alt="bayes network img" />
 </div>
 
-<p>In some senario, we could use dynamic programming to optimize Bayesian Networks calcultion.</p>
+<ol>
+  <li>seperate whole file to 20% and 80% and save as cvs</li>
+  <li>random choose 1000 case</li>
+</ol>
 
-<div>
-    <p class="index-image">Use Maximum likelihood Estimation to training data</p>
-</div>
-
-<p>In Machine Learning, the Size of trainning set must larger than the variables, otherwise result could be overfitting!</p>
-
-<p>In the training process, we should calculate the distance between y and f(x), we could use:</p>
-
-<ul>
-  <li><strong>Squares Error</strong> in Linear Regression or </li>
-  <li><strong>Maximum likelihood</strong> in Logistic Regression</li>
-</ul>
-
-<p>In Bayesian Networks, we also use <strong>Maximum likelihood</strong> to measure the distance between y and f(x)</p>
-
-<div>
-    <p class="index-image">Use NeticaJ library to implement Bayesian Networks</p>
-    <!--
-    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nr3iafxp3ax/MobilePhotoUpload.jpeg" alt="bayes network img" />
-    -->
-</div>
-
-<p>It is a Java library to implement calculation of Bayesian Networks.</p>
-
-<p>In the Eclipse, config the Run Configuration:</p>
-
-<p>Run configuration: VM arguments:</p>
-
-<p>-Djava.library.path=/Users/dongdong/Downloads/NeticaJ_504/bin</p>
-
-<ul>
-  <li>If the training set is equal than the parameters will result memorialize</li>
-  <li>If the training set is less than paraeters will result overfitting</li>
-</ul>
+<p>More training and less overfitting
+Less testing set will less acurry</p>
 
 <script src="/js/jquery-2.1.3.min.js"></script>
 

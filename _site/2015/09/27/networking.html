@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Notes of Bayesian network (class Three)</title>
+  <title>Mininet for Advantaged Networking</title>
   <meta name="description" content="">
 
   <!--
@@ -18,7 +18,7 @@
   <link rel="stylesheet" href="/css/carousel.css">
   <link rel="stylesheet" href="/css/category.css">
   <link rel="stylesheet" href="/css/gotroy.css">
-  <link rel="canonical" href="http://zhou-dong.github.io//2015/09/14/bayesian-network-03.html">
+  <link rel="canonical" href="http://zhou-dong.github.io//2015/09/27/networking.html">
   <link rel="alternate" type="application/rss+xml" title="TROY" href="http://zhou-dong.github.io//feed.xml" />
 </head>
 
@@ -100,7 +100,7 @@
                 <div class="container">
 
     <div>
-        <h3 class="post-title">Notes of Bayesian network (class Three)</h3>
+        <h3 class="post-title">Mininet for Advantaged Networking</h3>
     </div>
 
     <!--
@@ -126,53 +126,48 @@
 <h5 id="course-info">Course Info:</h5>
 
 <ul>
-  <li>Course Name: <a href="/2015/09/12/probabilistic-graphical-models.html">Probabilistic Graphical Models</a></li>
-  <li>Processor: Karen Hovsepian</li>
+  <li>Course Name: Advantaged Networking</li>
+  <li>Processor: Dr. Kumar</li>
 </ul>
 
 <hr />
+
+<h5 id="mininet-setup-directions">Mininet Setup Directions</h5>
+
+<p>https://troy.blackboard.com/bbcswebdav/pid-9688805-dt-content-rid-65070941_2/courses/T01-CS6649TRAB-15FA/Mininet%20Setup.pdf</p>
+
+<ol>
+  <li>Download and install the latest Virtualbox for your platform and you can find it <a href="https://www.virtualbox.org/wiki/Downloads">here</a>.</li>
+  <li>Download the latest Mininet virtual machine image from <a href="https://github.com/mininet/mininet/wiki/Mininet-VM-Images">here</a>. </li>
+  <li>In Virtualbox select File -&gt; Import Appliance and select the .ova you just downloaded. Virtualbox will show you the VM settings and you can then click Import.</li>
+  <li>Next, setup a bridged network by selecting the VM in the left side bar and then Settings -&gt; Network and ensure that Adapter 1 is enabled and attached to a Bridged Adapter</li>
+  <li>Start the VM by clicking Start.</li>
+  <li>Log in to the VM using mininet for both username and password.</li>
+  <li>Type sudo ifconfig on command line. This will display the IP addresses of the connected network interfaces and find for eth0 inet IP. </li>
+  <li>Open a terminal on your desktop (Terminal on Mac OSX, Putty on Windows and xterm on Linux) and type ssh mininet@ip_address where ip_address is the IP address under the eth0 output from the ifconfig command. Use the password mininet.</li>
+  <li>To ensure Mininet is working correctly run this test : sudo mn –test pingpair.</li>
+</ol>
+
+<h5 id="project-describe">Project Describe:</h5>
+
+<p>https://troy.blackboard.com/bbcswebdav/pid-9653630-dt-content-rid-65243017_2/courses/T01-CS6649TRAB-15FA/CS6649MiniProject1%281%29.pdf</p>
+
+<p>Mininet Wiki: https://github.com/mininet/mininet/wiki/Documentation</p>
+
+<p>Pox Wiki: https://openflow.stanford.edu/display/ONL/POX+Wiki</p>
 
 <div>
     <p class="index-image">Use Dynamic Programming to optimize Bayesian Networks</p>
     <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nqzbp7fvpw/MobilePhotoUpload.jpeg" alt="bayes network img" />
 </div>
 
-<p>In some senario, we could use dynamic programming to optimize Bayesian Networks calcultion.</p>
+<ol>
+  <li>seperate whole file to 20% and 80% and save as cvs</li>
+  <li>random choose 1000 case</li>
+</ol>
 
-<div>
-    <p class="index-image">Use Maximum likelihood Estimation to training data</p>
-</div>
-
-<p>In Machine Learning, the Size of trainning set must larger than the variables, otherwise result could be overfitting!</p>
-
-<p>In the training process, we should calculate the distance between y and f(x), we could use:</p>
-
-<ul>
-  <li><strong>Squares Error</strong> in Linear Regression or </li>
-  <li><strong>Maximum likelihood</strong> in Logistic Regression</li>
-</ul>
-
-<p>In Bayesian Networks, we also use <strong>Maximum likelihood</strong> to measure the distance between y and f(x)</p>
-
-<div>
-    <p class="index-image">Use NeticaJ library to implement Bayesian Networks</p>
-    <!--
-    <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nr3iafxp3ax/MobilePhotoUpload.jpeg" alt="bayes network img" />
-    -->
-</div>
-
-<p>It is a Java library to implement calculation of Bayesian Networks.</p>
-
-<p>In the Eclipse, config the Run Configuration:</p>
-
-<p>Run configuration: VM arguments:</p>
-
-<p>-Djava.library.path=/Users/dongdong/Downloads/NeticaJ_504/bin</p>
-
-<ul>
-  <li>If the training set is equal than the parameters will result memorialize</li>
-  <li>If the training set is less than paraeters will result overfitting</li>
-</ul>
+<p>More training and less overfitting
+Less testing set will less acurry</p>
 
 <script src="/js/jquery-2.1.3.min.js"></script>
 

@@ -6,9 +6,192 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Sep 2015 01:36:33 -0500</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2015 01:36:33 -0500</lastBuildDate>
+    <pubDate>Sun, 27 Sep 2015 02:00:28 -0500</pubDate>
+    <lastBuildDate>Sun, 27 Sep 2015 02:00:28 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Mininet for Advantaged Networking</title>
+        <description>&lt;style type=&quot;text/css&quot;&gt;
+    .index-image{
+        color: blue;
+    }
+    .index-image:hover{
+        cursor: pointer;
+    }
+&lt;/style&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;course-info&quot;&gt;Course Info:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Course Name: Advantaged Networking&lt;/li&gt;
+  &lt;li&gt;Processor: Dr. Kumar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;mininet-setup-directions&quot;&gt;Mininet Setup Directions&lt;/h5&gt;
+
+&lt;p&gt;https://troy.blackboard.com/bbcswebdav/pid-9688805-dt-content-rid-65070941_2/courses/T01-CS6649TRAB-15FA/Mininet%20Setup.pdf&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Download and install the latest Virtualbox for your platform and you can find it &lt;a href=&quot;https://www.virtualbox.org/wiki/Downloads&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Download the latest Mininet virtual machine image from &lt;a href=&quot;https://github.com/mininet/mininet/wiki/Mininet-VM-Images&quot;&gt;here&lt;/a&gt;. &lt;/li&gt;
+  &lt;li&gt;In Virtualbox select File -&amp;gt; Import Appliance and select the .ova you just downloaded. Virtualbox will show you the VM settings and you can then click Import.&lt;/li&gt;
+  &lt;li&gt;Next, setup a bridged network by selecting the VM in the left side bar and then Settings -&amp;gt; Network and ensure that Adapter 1 is enabled and attached to a Bridged Adapter&lt;/li&gt;
+  &lt;li&gt;Start the VM by clicking Start.&lt;/li&gt;
+  &lt;li&gt;Log in to the VM using mininet for both username and password.&lt;/li&gt;
+  &lt;li&gt;Type sudo ifconfig on command line. This will display the IP addresses of the connected network interfaces and find for eth0 inet IP. &lt;/li&gt;
+  &lt;li&gt;Open a terminal on your desktop (Terminal on Mac OSX, Putty on Windows and xterm on Linux) and type ssh mininet@ip_address where ip_address is the IP address under the eth0 output from the ifconfig command. Use the password mininet.&lt;/li&gt;
+  &lt;li&gt;To ensure Mininet is working correctly run this test : sudo mn –test pingpair.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;project-describe&quot;&gt;Project Describe:&lt;/h5&gt;
+
+&lt;p&gt;https://troy.blackboard.com/bbcswebdav/pid-9653630-dt-content-rid-65243017_2/courses/T01-CS6649TRAB-15FA/CS6649MiniProject1%281%29.pdf&lt;/p&gt;
+
+&lt;p&gt;Mininet Wiki: https://github.com/mininet/mininet/wiki/Documentation&lt;/p&gt;
+
+&lt;p&gt;Pox Wiki: https://openflow.stanford.edu/display/ONL/POX+Wiki&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;p class=&quot;index-image&quot;&gt;Use Dynamic Programming to optimize Bayesian Networks&lt;/p&gt;
+    &lt;img style=&quot;display: block&quot; height=&quot;500px&quot; src=&quot;https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nqzbp7fvpw/MobilePhotoUpload.jpeg&quot; alt=&quot;bayes network img&quot; /&gt;
+&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;seperate whole file to 20% and 80% and save as cvs&lt;/li&gt;
+  &lt;li&gt;random choose 1000 case&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;More training and less overfitting
+Less testing set will less acurry&lt;/p&gt;
+
+&lt;script src=&quot;/js/jquery-2.1.3.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+$(&quot;.index-image&quot;).click(function(){
+    $(this).next().toggle() ;
+});
+&lt;/script&gt;
+
+</description>
+        <pubDate>Sun, 27 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://zhou-dong.github.io//2015/09/27/networking.html</link>
+        <guid isPermaLink="true">http://zhou-dong.github.io//2015/09/27/networking.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Notes of Bayesian network (class Three)</title>
+        <description>&lt;style type=&quot;text/css&quot;&gt;
+    .index-image{
+        color: blue;
+    }
+    .index-image:hover{
+        cursor: pointer;
+    }
+&lt;/style&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;course-info&quot;&gt;Course Info:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Course Name: &lt;a href=&quot;/2015/09/12/probabilistic-graphical-models.html&quot;&gt;Probabilistic Graphical Models&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Processor: Karen Hovsepian&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div&gt;
+    &lt;p class=&quot;index-image&quot;&gt;Use Dynamic Programming to optimize Bayesian Networks&lt;/p&gt;
+    &lt;img style=&quot;display: block&quot; height=&quot;500px&quot; src=&quot;https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nqzbp7fvpw/MobilePhotoUpload.jpeg&quot; alt=&quot;bayes network img&quot; /&gt;
+&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;seperate whole file to 20% and 80% and save as cvs&lt;/li&gt;
+  &lt;li&gt;random choose 1000 case&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;More training and less overfitting
+Less testing set will less acurry&lt;/p&gt;
+
+&lt;script src=&quot;/js/jquery-2.1.3.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+$(&quot;.index-image&quot;).click(function(){
+    $(this).next().toggle() ;
+});
+&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 14 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://zhou-dong.github.io//2015/09/14/bayesian-network-05.html</link>
+        <guid isPermaLink="true">http://zhou-dong.github.io//2015/09/14/bayesian-network-05.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Notes of Bayesian network (class Three)</title>
+        <description>&lt;style type=&quot;text/css&quot;&gt;
+    .index-image{
+        color: blue;
+    }
+    .index-image:hover{
+        cursor: pointer;
+    }
+&lt;/style&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;course-info&quot;&gt;Course Info:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Course Name: &lt;a href=&quot;/2015/09/12/probabilistic-graphical-models.html&quot;&gt;Probabilistic Graphical Models&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Processor: Karen Hovsepian&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div&gt;
+    &lt;p class=&quot;index-image&quot;&gt;Use Dynamic Programming to optimize Bayesian Networks&lt;/p&gt;
+    &lt;img style=&quot;display: block&quot; height=&quot;500px&quot; src=&quot;https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nqzbp7fvpw/MobilePhotoUpload.jpeg&quot; alt=&quot;bayes network img&quot; /&gt;
+&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;seperate whole file to 20% and 80% and save as cvs&lt;/li&gt;
+  &lt;li&gt;random choose 1000 case&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;More training and less overfitting
+Less testing set will less acurry&lt;/p&gt;
+
+&lt;script src=&quot;/js/jquery-2.1.3.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+$(&quot;.index-image&quot;).click(function(){
+    $(this).next().toggle() ;
+});
+&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 14 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://zhou-dong.github.io//2015/09/14/bayesian-network-04.html</link>
+        <guid isPermaLink="true">http://zhou-dong.github.io//2015/09/14/bayesian-network-04.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Notes of Bayesian network (class Three)</title>
@@ -64,6 +247,17 @@
 &lt;/div&gt;
 
 &lt;p&gt;It is a Java library to implement calculation of Bayesian Networks.&lt;/p&gt;
+
+&lt;p&gt;In the Eclipse, config the Run Configuration:&lt;/p&gt;
+
+&lt;p&gt;Run configuration: VM arguments:&lt;/p&gt;
+
+&lt;p&gt;-Djava.library.path=/Users/dongdong/Downloads/NeticaJ_504/bin&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If the training set is equal than the parameters will result memorialize&lt;/li&gt;
+  &lt;li&gt;If the training set is less than paraeters will result overfitting&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;script src=&quot;/js/jquery-2.1.3.min.js&quot;&gt;&lt;/script&gt;
 
@@ -499,10 +693,10 @@ Calculat the distribution values of different variables.&lt;/p&gt;
 &lt;p&gt;Mathematical Definition:&lt;/p&gt;
 
 &lt;p&gt;Unconditional Independent:
-&lt;script type=&quot;math/tex&quot;&gt; X \bot Y \ \Leftarrow \ P(Y|X) = P(Y) &lt;/script&gt;&lt;/p&gt;
+&lt;script type=&quot;math/tex&quot;&gt; X \bot Y \ \Leftrightarrow \ P(Y|X) = P(Y) &lt;/script&gt;&lt;/p&gt;
 
 &lt;p&gt;Conditional Dependence:
-&lt;script type=&quot;math/tex&quot;&gt; X (\lnot \bot) Y \ \Leftarrow \ P(Y|X) \ne P(Y) &lt;/script&gt;&lt;/p&gt;
+&lt;script type=&quot;math/tex&quot;&gt; X (\lnot \bot) Y \ \Leftrightarrow \ P(Y|X) \ne P(Y) &lt;/script&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;P(X,Y) = P(X) \times P(Y)&lt;/script&gt; &lt;code&gt;if&lt;/code&gt; &lt;script type=&quot;math/tex&quot;&gt; X \bot Y&lt;/script&gt;&lt;/p&gt;
 
@@ -1484,207 +1678,6 @@ $(&quot;.index-image&quot;).click(function(){
         <pubDate>Sat, 06 Jun 2015 00:00:00 -0500</pubDate>
         <link>http://zhou-dong.github.io//2015/06/06/faculty.html</link>
         <guid isPermaLink="true">http://zhou-dong.github.io//2015/06/06/faculty.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Computer Science of Troy University</title>
-        <description>&lt;!-- Carousel --&gt;
-&lt;div id=&quot;myCarousel&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-    
-    &lt;!-- Indicators --&gt;
-    &lt;ol class=&quot;carousel-indicators&quot;&gt;
-        &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-        &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-        &lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-    
-    &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
-        &lt;div class=&quot;item active&quot;&gt;
-          &lt;div class=&quot;container&quot;&gt;
-            &lt;div class=&quot;carousel-caption&quot;&gt;
-              &lt;h2&gt;Undergraduate&lt;/h2&gt;
-              &lt;p&gt;
-                &lt;a style=&quot;color: maroon;&quot; href=&quot;/2015/06/06/undergraduate.html&quot;&gt;
-                  Note: If you&#39;re viewing this page via a URL
-              the &quot;next&quot; and &quot;previous&quot; Glyphicon buttons on the left
-              the &quot;next&quot; and &quot;previous&quot; Glyphicon buttons on the left
-                &lt;/a&gt;
-              &lt;/p&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;item&quot;&gt;
-          &lt;div class=&quot;container&quot;&gt;
-            &lt;div class=&quot;carousel-caption&quot;&gt;
-              &lt;h2&gt;Graduate&lt;/h2&gt;
-              &lt;p&gt;
-              &lt;a style=&quot;color: maroon;&quot; href=&quot;/2015/06/06/graduate.html&quot;&gt;
-                  Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
-              &lt;/a&gt;
-              &lt;/p&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;item&quot;&gt;
-          &lt;div class=&quot;container&quot;&gt;
-            &lt;div class=&quot;carousel-caption&quot;&gt;
-              &lt;h2&gt;Minor&lt;/h2&gt;
-              &lt;p&gt;
-              &lt;a style=&quot;color: maroon;&quot; href=&quot;/2015/06/06/undergraduate.html&quot;&gt;
-                  Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
-              &lt;/a&gt;
-              &lt;/p&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;a class=&quot;left carousel-control&quot; href=&quot;#myCarousel&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-        &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-      &lt;/a&gt;
-      &lt;a class=&quot;right carousel-control&quot; href=&quot;#myCarousel&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-        &lt;span class=&quot;glyphicon glyphicon-chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-      &lt;/a&gt;
-&lt;/div&gt;&lt;!-- /.carousel --&gt;
-
-&lt;div&gt;
-    &lt;div class=&quot;container&quot;&gt;
-        &lt;div class=&quot;row campus-row&quot;&gt;
-            &lt;div class=&quot;col-lg-3&quot;&gt;
-                &lt;div&gt;
-                    &lt;img class=&quot;img-circle campus-name&quot; src=&quot;http://watermarked.cutcaster.com/cutcaster-photo-800970672-Troy-University.jpg&quot;/&gt;
-                &lt;/div&gt;
-                &lt;p&gt;Troy Campus&lt;/p&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-lg-3&quot;&gt;
-                &lt;div&gt;
-                    &lt;img class=&quot;img-circle campus-name&quot; src=&quot;https://s-media-cache-ak0.pinimg.com/236x/5f/03/5e/5f035e4cb4ac9dfd83fa4943a96e2362.jpg&quot;&gt;
-                &lt;/div&gt;
-                &lt;p&gt;Montgomery Campus&lt;/p&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-lg-3&quot;&gt;
-                &lt;div&gt;
-                    &lt;img class=&quot;img-circle campus-name&quot; src=&quot;http://www.businessalabama.com/images/cache/cache_0/cache_f/cache_0/higher-ed-d9c2e0f0.jpeg&quot;/&gt;
-                &lt;/div&gt;
-                &lt;p&gt;Dothan Campus&lt;/p&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;col-lg-3&quot;&gt;
-                &lt;div&gt;
-                    &lt;img class=&quot;img-circle campus-name&quot; src=&quot;http://fastpitchnews.org/wp-content/uploads/2013/09/troy-trojans-alternate-logo-2-primary.jpg&quot;/&gt;
-                &lt;/div&gt;
-                &lt;p&gt;Global Campus&lt;/p&gt;
-            &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;       
-&lt;!-- START THE FEATURETTES --&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-    
-    &lt;hr class=&quot;featurette-divider&quot;&gt;
-    
-    &lt;div class=&quot;row featurette&quot;&gt;
-        &lt;div class=&quot;col-md-8&quot;&gt;
-            &lt;h3 class=&quot;featurette-heading&quot;&gt;About Us. &lt;span class=&quot;text-muted&quot;&gt;Our Trojans.&lt;/span&gt;&lt;/h3&gt;
-            &lt;p class=&quot;lead&quot;&gt;The Computer Science program provides students with a curriculum in the MSCS key domains of Computer Science at the undergraduate and graduate levels. 
-            &lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-md-4&quot;&gt;
-            &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://fastpitchnews.org/wp-content/uploads/2013/09/troy-trojans-alternate-logo-2-primary.jpg&quot; alt=&quot;Generic placeholder image&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;hr class=&quot;featurette-divider&quot;&gt;
-
-    &lt;div class=&quot;row featurette&quot;&gt;
-        &lt;div class=&quot;col-md-4&quot;&gt;
-            &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://fastpitchnews.org/wp-content/uploads/2013/09/troy-trojans-alternate-logo-2-primary.jpg&quot; alt=&quot;Generic placeholder image&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-md-8&quot;&gt;
-            &lt;h3 class=&quot;featurette-heading&quot;&gt;Admissions. &lt;span class=&quot;text-muted&quot;&gt;See for yourself.&lt;/span&gt;&lt;/h3&gt;
-            &lt;p class=&quot;lead&quot;&gt;The Computer Science program provides students with a curriculum in the MSCS key domains of Computer Science at the undergraduate and graduate levels. 
-            &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;hr class=&quot;featurette-divider&quot;&gt;
-
-    &lt;div class=&quot;row featurette&quot;&gt;
-        &lt;div class=&quot;col-md-8&quot;&gt;
-            &lt;h3 class=&quot;featurette-heading&quot;&gt;Project. &lt;span class=&quot;text-muted&quot;&gt;Checkmate.&lt;/span&gt;&lt;/h3&gt;
-            &lt;p class=&quot;lead&quot;&gt;The Computer Science program provides students with a curriculum in the MSCS key domains of Computer Science at the undergraduate and graduate levels. 
-            &lt;/p&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-md-4&quot;&gt;
-            &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;http://fastpitchnews.org/wp-content/uploads/2013/09/troy-trojans-alternate-logo-2-primary.jpg&quot; alt=&quot;Generic placeholder image&quot;&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 06 Jun 2015 00:00:00 -0500</pubDate>
-        <link>http://zhou-dong.github.io//2015/06/06/computer-science.html</link>
-        <guid isPermaLink="true">http://zhou-dong.github.io//2015/06/06/computer-science.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>KFC</title>
-        <description>&lt;p&gt;website: &lt;a href=&quot;http://www.kfc.com/&quot;&gt;KFC&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;They have buffet in lunch, price is $7.70 include tax. &lt;/p&gt;
-
-&lt;p&gt;The price is lower than our Dinnering Hall, but Dinnering Hall have more options than KFC.&lt;/p&gt;
-
-&lt;div style=&quot;height:300px;&quot;&gt;
-
-&lt;a action-type=&quot;56&quot; tabindex=&quot;0&quot; class=&quot;d-s Gl&quot; target=&quot;_blank&quot; href=&quot;//www.google.com/url?sa=D&amp;amp;oi=plus&amp;amp;q=https://www.google.com/maps/place/KFC/data%3D!4m2!3m1!1s0x888debec270a71af:0xc7d5cc2901889d0e?gl%3DUS%26hl%3Dzh-CN&quot;&gt;&lt;img width=&quot;476&quot; height=&quot;192&quot; class=&quot;Nlc&quot; src=&quot;//www.google.com/maps/vt/data=zra6UAvNNz4S8ah4scyI5nEFaI29p6ntPAElISbrpSF99XIwu285b_CjlQWqp-JbfDZrmmc0tTZPUg&quot; alt=&quot;店铺位置的地图&quot; /&gt;&lt;/a&gt;
-
-&lt;/div&gt;
-
-</description>
-        <pubDate>Wed, 25 Mar 2015 00:00:00 -0500</pubDate>
-        <link>http://zhou-dong.github.io//2015/03/25/kfc.html</link>
-        <guid isPermaLink="true">http://zhou-dong.github.io//2015/03/25/kfc.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Krystal Restaurant</title>
-        <description>&lt;p&gt;website: &lt;a href=&quot;http://krystal.com/&quot;&gt;krystal&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Krystal moved its corporate headquarters from Chattanooga, Tennessee, where it had been based since 1932, to Atlanta in early 2013.&lt;/p&gt;
-
-&lt;p&gt;personally I like the: “chicken wings” which is &lt;strong&gt;[combo 15]&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;div style=&quot;height:300px;&quot;&gt;
-    &lt;div id=&quot;map_canvas&quot; style=&quot;width:100%; height:100%&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;!--google map api--&gt;
-&lt;script type=&quot;text/javascript&quot; src=&quot;http://maps.googleapis.com/maps/api/js?key=AIzaSyCCVaYry5FB7LNQyJIQt_gP-bsyzzG3YL8&amp;amp;sensor=FALSE&quot;&gt;
-&lt;/script&gt;
-
-&lt;script&gt;
-    function initialize() {
-        var mapOptions = {
-            zoom: 18,
-            center: new google.maps.LatLng(31.7802283,-85.947737),
-            mapTypeId: google.maps.MapTypeId.ROADMAP
-        }
-        var map = new google.maps.Map(document.getElementById(&quot;map_canvas&quot;), mapOptions);
-    }
-&lt;/script&gt;
-
-</description>
-        <pubDate>Mon, 23 Mar 2015 00:00:00 -0500</pubDate>
-        <link>http://zhou-dong.github.io//2015/03/23/krystal.html</link>
-        <guid isPermaLink="true">http://zhou-dong.github.io//2015/03/23/krystal.html</guid>
         
         
       </item>
