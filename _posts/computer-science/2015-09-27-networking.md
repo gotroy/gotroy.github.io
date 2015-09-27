@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes of Bayesian network (class Three)
+title: Mininet for Advantaged Networking
 
 ---
 
@@ -18,10 +18,22 @@ title: Notes of Bayesian network (class Three)
 
 ##### Course Info:
 
-- Course Name: [Probabilistic Graphical Models](/2015/09/12/probabilistic-graphical-models.html)
-- Processor: Karen Hovsepian
+- Course Name: Advantaged Networking
+- Processor: Dr. Kumar
 
 ---
+
+Mininet Setup Directions
+
+1. Download and install the latest Virtualbox for your platform and you can find it [here](https://www.virtualbox.org/wiki/Downloads).
+2. Download the latest Mininet virtual machine image from [here](https://github.com/mininet/mininet/wiki/Mininet-VM-Images). 
+3. In Virtualbox select File -> Import Appliance and select the .ova you just downloaded. Virtualbox will show you the VM settings and you can then click Import.
+4. Next, setup a bridged network by selecting the VM in the left side bar and then Settings -> Network and ensure that Adapter 1 is enabled and attached to a Bridged Adapter
+5. Start the VM by clicking Start.
+6. Log in to the VM using mininet for both username and password.
+7. Type sudo ifconfig on command line. This will display the IP addresses of the connected network interfaces and find for eth0 inet IP. 
+8. Open a terminal on your desktop (Terminal on Mac OSX, Putty on Windows and xterm on Linux) and type ssh mininet@ip_address where ip_address is the IP address under the eth0 output from the ifconfig command. Use the password mininet.
+9. To ensure Mininet is working correctly run this test : sudo mn --test pingpair.
 
 <div>
     <p class="index-image">Use Dynamic Programming to optimize Bayesian Networks</p>
