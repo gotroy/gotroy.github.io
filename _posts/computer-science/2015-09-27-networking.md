@@ -23,7 +23,9 @@ title: Mininet for Advantaged Networking
 
 ---
 
-Mininet Setup Directions
+##### Mininet Setup Directions
+
+https://troy.blackboard.com/bbcswebdav/pid-9688805-dt-content-rid-65070941_2/courses/T01-CS6649TRAB-15FA/Mininet%20Setup.pdf
 
 1. Download and install the latest Virtualbox for your platform and you can find it [here](https://www.virtualbox.org/wiki/Downloads).
 2. Download the latest Mininet virtual machine image from [here](https://github.com/mininet/mininet/wiki/Mininet-VM-Images). 
@@ -34,6 +36,14 @@ Mininet Setup Directions
 7. Type sudo ifconfig on command line. This will display the IP addresses of the connected network interfaces and find for eth0 inet IP. 
 8. Open a terminal on your desktop (Terminal on Mac OSX, Putty on Windows and xterm on Linux) and type ssh mininet@ip_address where ip_address is the IP address under the eth0 output from the ifconfig command. Use the password mininet.
 9. To ensure Mininet is working correctly run this test : sudo mn --test pingpair.
+
+##### Project Describe:
+
+https://troy.blackboard.com/bbcswebdav/pid-9653630-dt-content-rid-65243017_2/courses/T01-CS6649TRAB-15FA/CS6649MiniProject1%281%29.pdf
+
+Mininet Wiki: https://github.com/mininet/mininet/wiki/Documentation
+
+Pox Wiki: https://openflow.stanford.edu/display/ONL/POX+Wiki
 
 <div>
     <p class="index-image">Use Dynamic Programming to optimize Bayesian Networks</p>
