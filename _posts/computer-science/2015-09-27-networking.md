@@ -47,7 +47,7 @@ https://troy.blackboard.com/bbcswebdav/pid-9688805-dt-content-rid-65070941_2/cou
 
 sudo mn --custom ~/mininet/custom/topo-2sw-2host.py --topo mytopo --controller=remote --link=tc
 
-##### Project Describe:
+#### Project Describe:
 
 https://troy.blackboard.com/bbcswebdav/pid-9653630-dt-content-rid-65243017_2/courses/T01-CS6649TRAB-15FA/CS6649MiniProject1%281%29.pdf
 
@@ -59,11 +59,11 @@ Pox Wiki: https://openflow.stanford.edu/display/ONL/POX+Wiki
 
 1. start controller
 
-./pox.py pox_controller
+    - ./pox.py pox_controller
 
 2. start topology
 
-sudo mn --custom ~/mininet/custom/topo-2sw-2host.py --topo mytopo --controller=remote --link=tc
+    - sudo mn --custom ~/mininet/custom/topo-2sw-2host.py --topo mytopo --controller=remote --link=tc
 
 <script src="/js/jquery-2.1.3.min.js"></script>
 <script type="text/javascript">
