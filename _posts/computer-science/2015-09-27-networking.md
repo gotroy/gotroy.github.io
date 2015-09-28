@@ -16,14 +16,14 @@ title: Mininet for Advantaged Networking
 
 ---
 
-##### Course Info:
+#### Course Info:
 
 - Course Name: Advantaged Networking
 - Processor: Dr. Kumar
 
 ---
 
-##### Mininet Setup Directions
+#### Mininet Setup Directions
 
 https://troy.blackboard.com/bbcswebdav/pid-9688805-dt-content-rid-65070941_2/courses/T01-CS6649TRAB-15FA/Mininet%20Setup.pdf
 
@@ -37,7 +37,7 @@ https://troy.blackboard.com/bbcswebdav/pid-9688805-dt-content-rid-65070941_2/cou
 8. Open a terminal on your desktop (Terminal on Mac OSX, Putty on Windows and xterm on Linux) and type ssh mininet@ip_address where ip_address is the IP address under the eth0 output from the ifconfig command. Use the password mininet.
 9. To ensure Mininet is working correctly run this test : sudo mn --test pingpair.
 
-
+#### Start Mininet
 
 1. start controller
 
@@ -55,9 +55,15 @@ Mininet Wiki: https://github.com/mininet/mininet/wiki/Documentation
 
 Pox Wiki: https://openflow.stanford.edu/display/ONL/POX+Wiki
 
-1. seperate whole file to 20% and 80% and save as cvs
-2. random choose 1000 case
+#### Start Mininet
 
+1. start controller
+
+./pox.py pox_controller
+
+2. start topology
+
+sudo mn --custom ~/mininet/custom/topo-2sw-2host.py --topo mytopo --controller=remote --link=tc
 
 <script src="/js/jquery-2.1.3.min.js"></script>
 <script type="text/javascript">
