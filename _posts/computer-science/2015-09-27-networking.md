@@ -37,6 +37,16 @@ https://troy.blackboard.com/bbcswebdav/pid-9688805-dt-content-rid-65070941_2/cou
 8. Open a terminal on your desktop (Terminal on Mac OSX, Putty on Windows and xterm on Linux) and type ssh mininet@ip_address where ip_address is the IP address under the eth0 output from the ifconfig command. Use the password mininet.
 9. To ensure Mininet is working correctly run this test : sudo mn --test pingpair.
 
+
+
+1. start controller
+
+./pox.py script_ovs_pox
+
+2. start topology
+
+sudo mn --custom ~/mininet/custom/topo-2sw-2host.py --topo mytopo --controller=remote --link=tc
+
 ##### Project Describe:
 
 https://troy.blackboard.com/bbcswebdav/pid-9653630-dt-content-rid-65243017_2/courses/T01-CS6649TRAB-15FA/CS6649MiniProject1%281%29.pdf
