@@ -32,9 +32,6 @@ title: Notes of Bayesian network (class Three)
 1. seperate whole file to 20% and 80% and save as cvs
 2. random choose 1000 case
 
-More training and less overfitting
-Less testing set will less acurry
-
 <script src="/js/jquery-2.1.3.min.js"></script>
 <script type="text/javascript">
 $(".index-image").click(function(){
