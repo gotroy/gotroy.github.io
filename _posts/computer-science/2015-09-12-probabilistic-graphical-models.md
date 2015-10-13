@@ -25,6 +25,7 @@ tagline: CS 6649 TRAA
     + [Class One](/2015/09/12/bayesian-network.html)
     + [Class Two](/2015/09/13/bayesian-network-02.html)
     + [Class Three](/2015/09/14/bayesian-network-03.html)
+    + [Class Three](/2015/10/13/bayesian-network-07.html)
 - Hidden Markov model
 - Conditional random field
 
