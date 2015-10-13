@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes of Bayesian network (class Three)
+title: Notes of Bayesian network (class Seven)
 
 ---
 
