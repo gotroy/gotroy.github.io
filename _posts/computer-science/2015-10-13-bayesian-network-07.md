@@ -24,19 +24,19 @@ title: Notes of Bayesian network (class Seven)
 ---
 
 <div>
-    <p class="index-image">Use Dynamic Programming to optimize Bayesian Networks</p>
+    <p class="index-image">Training the probality of Bayesian Networks</p>
     <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ifj6vokgo16fj/ifj6vxgjoyf4a7/MobilePhotoUpload.jpeg" alt="bayes network img" />
 </div>
 
 
 <div>
-    <p class="index-image">Use Dynamic Programming to optimize Bayesian Networks</p>
+    <p class="index-image">Detail of data  </p>
     <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ifj6vokgo16fj/ifj6vv9u3y149b/MobilePhotoUpload.jpeg" alt="bayes network img" />
 </div>
 
 
 <div>
-    <p class="index-image">Use Dynamic Programming to optimize Bayesian Networks</p>
+    <p class="index-image">Least squares Or Gradient descent</p>
     <img style="display: block" height="500px" src="https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ifj6vokgo16fj/ifj6vrmm49o4z1/MobilePhotoUpload.jpeg" alt="bayes network img" />
 </div>
 

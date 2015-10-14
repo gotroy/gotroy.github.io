@@ -6,12 +6,12 @@
 </description>
     <link>http://zhou-dong.github.io//</link>
     <atom:link href="http://zhou-dong.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Sep 2015 02:00:28 -0500</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2015 02:00:28 -0500</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Tue, 13 Oct 2015 22:24:47 -0500</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2015 22:24:47 -0500</lastBuildDate>
+    <generator>Jekyll v3.0.0.pre.beta9</generator>
     
       <item>
-        <title>Mininet for Advantaged Networking</title>
+        <title>Notes of Bayesian network (class Seven)</title>
         <description>&lt;style type=&quot;text/css&quot;&gt;
     .index-image{
         color: blue;
@@ -28,13 +28,121 @@
 &lt;h5 id=&quot;course-info&quot;&gt;Course Info:&lt;/h5&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;Course Name: &lt;a href=&quot;/2015/09/12/probabilistic-graphical-models.html&quot;&gt;Probabilistic Graphical Models&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Processor: Karen Hovsepian&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div&gt;
+    &lt;p class=&quot;index-image&quot;&gt;Use Dynamic Programming to optimize Bayesian Networks&lt;/p&gt;
+    &lt;img style=&quot;display: block&quot; height=&quot;500px&quot; src=&quot;https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ifj6vokgo16fj/ifj6vxgjoyf4a7/MobilePhotoUpload.jpeg&quot; alt=&quot;bayes network img&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+    &lt;p class=&quot;index-image&quot;&gt;Use Dynamic Programming to optimize Bayesian Networks&lt;/p&gt;
+    &lt;img style=&quot;display: block&quot; height=&quot;500px&quot; src=&quot;https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ifj6vokgo16fj/ifj6vv9u3y149b/MobilePhotoUpload.jpeg&quot; alt=&quot;bayes network img&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+    &lt;p class=&quot;index-image&quot;&gt;Use Dynamic Programming to optimize Bayesian Networks&lt;/p&gt;
+    &lt;img style=&quot;display: block&quot; height=&quot;500px&quot; src=&quot;https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ifj6vokgo16fj/ifj6vrmm49o4z1/MobilePhotoUpload.jpeg&quot; alt=&quot;bayes network img&quot; /&gt;
+&lt;/div&gt;
+
+&lt;script src=&quot;/js/jquery-2.1.3.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+$(&quot;.index-image&quot;).click(function(){
+    $(this).next().toggle() ;
+});
+&lt;/script&gt;
+
+</description>
+        <pubDate>Tue, 13 Oct 2015 00:00:00 -0500</pubDate>
+        <link>http://zhou-dong.github.io//2015/10/13/bayesian-network-07.html</link>
+        <guid isPermaLink="true">http://zhou-dong.github.io//2015/10/13/bayesian-network-07.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Notes of Bayesian network (class Three)</title>
+        <description>&lt;style type=&quot;text/css&quot;&gt;
+    .index-image{
+        color: blue;
+    }
+    .index-image:hover{
+        cursor: pointer;
+    }
+&lt;/style&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&quot;course-info&quot;&gt;Course Info:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Course Name: &lt;a href=&quot;/2015/09/12/probabilistic-graphical-models.html&quot;&gt;Probabilistic Graphical Models&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Processor: Karen Hovsepian&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;div&gt;
+    &lt;p class=&quot;index-image&quot;&gt;Use Dynamic Programming to optimize Bayesian Networks&lt;/p&gt;
+    &lt;img style=&quot;display: block&quot; height=&quot;500px&quot; src=&quot;https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nqzbp7fvpw/MobilePhotoUpload.jpeg&quot; alt=&quot;bayes network img&quot; /&gt;
+&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;seperate whole file to 20% and 80% and save as cvs&lt;/li&gt;
+  &lt;li&gt;random choose 1000 case&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;More training and less overfitting
+Less testing set will less acurry&lt;/p&gt;
+
+&lt;script src=&quot;/js/jquery-2.1.3.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+$(&quot;.index-image&quot;).click(function(){
+    $(this).next().toggle() ;
+});
+&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 12 Oct 2015 00:00:00 -0500</pubDate>
+        <link>http://zhou-dong.github.io//2015/10/12/bayesian-network-06.html</link>
+        <guid isPermaLink="true">http://zhou-dong.github.io//2015/10/12/bayesian-network-06.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mininet for Advantaged Networking</title>
+        <description>&lt;style type=&quot;text/css&quot;&gt;
+    .index-image{
+        color: blue;
+    }
+    .index-image:hover{
+        cursor: pointer;
+    }
+&lt;/style&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;course-info&quot;&gt;Course Info:&lt;/h4&gt;
+
+&lt;ul&gt;
   &lt;li&gt;Course Name: Advantaged Networking&lt;/li&gt;
   &lt;li&gt;Processor: Dr. Kumar&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;h5 id=&quot;mininet-setup-directions&quot;&gt;Mininet Setup Directions&lt;/h5&gt;
+&lt;h4 id=&quot;mininet-setup-directions&quot;&gt;Mininet Setup Directions&lt;/h4&gt;
 
 &lt;p&gt;https://troy.blackboard.com/bbcswebdav/pid-9688805-dt-content-rid-65070941_2/courses/T01-CS6649TRAB-15FA/Mininet%20Setup.pdf&lt;/p&gt;
 
@@ -50,7 +158,21 @@
   &lt;li&gt;To ensure Mininet is working correctly run this test : sudo mn –test pingpair.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h5 id=&quot;project-describe&quot;&gt;Project Describe:&lt;/h5&gt;
+&lt;h4 id=&quot;start-mininet&quot;&gt;Start Mininet&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;start controller&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;./pox.py script_ovs_pox&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;start topology&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;sudo mn –custom ~/mininet/custom/topo-2sw-2host.py –topo mytopo –controller=remote –link=tc&lt;/p&gt;
+
+&lt;h4 id=&quot;project-describe&quot;&gt;Project Describe:&lt;/h4&gt;
 
 &lt;p&gt;https://troy.blackboard.com/bbcswebdav/pid-9653630-dt-content-rid-65243017_2/courses/T01-CS6649TRAB-15FA/CS6649MiniProject1%281%29.pdf&lt;/p&gt;
 
@@ -58,18 +180,24 @@
 
 &lt;p&gt;Pox Wiki: https://openflow.stanford.edu/display/ONL/POX+Wiki&lt;/p&gt;
 
-&lt;div&gt;
-    &lt;p class=&quot;index-image&quot;&gt;Use Dynamic Programming to optimize Bayesian Networks&lt;/p&gt;
-    &lt;img style=&quot;display: block&quot; height=&quot;500px&quot; src=&quot;https://d1b10bmlvqabco.cloudfront.net/attach/idl50807mpy3uf/ie7nqxpnv02351/ie7nqzbp7fvpw/MobilePhotoUpload.jpeg&quot; alt=&quot;bayes network img&quot; /&gt;
-&lt;/div&gt;
+&lt;h4 id=&quot;start-mininet-1&quot;&gt;Start Mininet&lt;/h4&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;seperate whole file to 20% and 80% and save as cvs&lt;/li&gt;
-  &lt;li&gt;random choose 1000 case&lt;/li&gt;
-&lt;/ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;start controller&lt;/p&gt;
 
-&lt;p&gt;More training and less overfitting
-Less testing set will less acurry&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;./pox.py pox_controller&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;start topology&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;sudo mn –custom ~/mininet/custom/topo-2sw-2host.py –topo mytopo –controller=remote –link=tc&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;script src=&quot;/js/jquery-2.1.3.min.js&quot;&gt;&lt;/script&gt;
 
@@ -173,9 +301,6 @@ $(&quot;.index-image&quot;).click(function(){
   &lt;li&gt;seperate whole file to 20% and 80% and save as cvs&lt;/li&gt;
   &lt;li&gt;random choose 1000 case&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;More training and less overfitting
-Less testing set will less acurry&lt;/p&gt;
 
 &lt;script src=&quot;/js/jquery-2.1.3.min.js&quot;&gt;&lt;/script&gt;
 
@@ -473,6 +598,7 @@ $(&quot;.index-image&quot;).click(function(){
       &lt;li&gt;&lt;a href=&quot;/2015/09/12/bayesian-network.html&quot;&gt;Class One&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;/2015/09/13/bayesian-network-02.html&quot;&gt;Class Two&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;/2015/09/14/bayesian-network-03.html&quot;&gt;Class Three&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/2015/10/13/bayesian-network-07.html&quot;&gt;Class Seven&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Hidden Markov model&lt;/li&gt;
@@ -1583,101 +1709,6 @@ $(&quot;.index-image&quot;).click(function(){
         <pubDate>Sat, 06 Jun 2015 00:00:00 -0500</pubDate>
         <link>http://zhou-dong.github.io//2015/06/06/undergraduate.html</link>
         <guid isPermaLink="true">http://zhou-dong.github.io//2015/06/06/undergraduate.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Computer Science of Troy University</title>
-        <description>&lt;div class=&quot;jumbotron&quot;&gt;
-    &lt;div class=&quot;container&quot;&gt;
-        &lt;h2&gt;Master’s Degree Programs&lt;h2&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;category-banner&quot;&gt;
-&lt;div class=&quot;container&quot;&gt;
-    &lt;div class=&quot;row featurette&quot;&gt;
-        &lt;div class=&quot;col-md-5&quot;&gt;
-            &lt;img class=&quot;featurette-image img-responsive&quot; src=&quot;https://www.elastic.co/assets/blt1a8d62b0cb8248ec/meetups.jpg&quot; alt=&quot;image&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-md-7&quot;&gt;
-            &lt;h3 class=&quot;featurette-heading&quot;&gt;Master of Science degree &lt;span class=&quot;text-muted&quot;&gt;Graduate Program&lt;/span&gt;&lt;/h3&gt;
-            &lt;p class=&quot;lead&quot;&gt;
-            The Master of Science degree in Computer Science is designed to provide students the opportunity for advanced studies in the theory, concepts, and methods involved in the design, development, and implementation of computer systems and programs. 
-            &lt;/p&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;category-description&quot;&gt;
-    &lt;div class=&quot;container&quot;&gt;
-        &lt;div&gt;
-            &lt;p class=&quot;lead&quot;&gt;The graduate program curriculum includes the design and analysis of algorithms, advanced principles of programming and compilers, operating systems, software engineering, artificial intelligence, database, distributed systems, network security, computer organization and architecture.
-            &lt;/p&gt;
-        &lt;div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 06 Jun 2015 00:00:00 -0500</pubDate>
-        <link>http://zhou-dong.github.io//2015/06/06/graduate.html</link>
-        <guid isPermaLink="true">http://zhou-dong.github.io//2015/06/06/graduate.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Computer Science of Troy University</title>
-        <description>&lt;div class=&quot;jumbotron&quot;&gt;
-    &lt;div class=&quot;container&quot;&gt;
-        &lt;h2&gt;Faculty&lt;h2&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;people&quot;&gt;
-    &lt;div class=&quot;container&quot;&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-lg-3&quot;&gt;
-          &lt;img class=&quot;img-circle&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 140px; height: 140px;&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-lg-9&quot;&gt;
-          &lt;h2&gt;Heading&lt;/h2&gt;
-          &lt;p&gt;
-            Duis mollis, est non commodo  sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.
-          &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-lg-3&quot;&gt;
-          &lt;img class=&quot;img-circle&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 140px; height: 140px;&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-lg-9&quot;&gt;
-          &lt;h2&gt;Heading&lt;/h2&gt;
-          &lt;p&gt;Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus .
-          &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-lg-3&quot;&gt;
-          &lt;img class=&quot;img-circle&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==&quot; alt=&quot;Generic placeholder image&quot; style=&quot;width: 140px; height: 140px;&quot;&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;col-lg-9&quot;&gt;
-          &lt;h2&gt;Heading&lt;/h2&gt;
-          &lt;p&gt;Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum
-         &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-
-    &lt;/div&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 06 Jun 2015 00:00:00 -0500</pubDate>
-        <link>http://zhou-dong.github.io//2015/06/06/faculty.html</link>
-        <guid isPermaLink="true">http://zhou-dong.github.io//2015/06/06/faculty.html</guid>
         
         
       </item>
