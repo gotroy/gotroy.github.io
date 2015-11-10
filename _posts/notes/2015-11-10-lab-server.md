@@ -4,7 +4,9 @@ title:  Troy University Lab Server Config
 catgories: 
 ---
 
-Ip: 10.33.0.31
+Ip Address
+
+-  10.33.0.31
 
 Docker Command:
 
