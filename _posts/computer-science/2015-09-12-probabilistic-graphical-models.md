@@ -35,6 +35,7 @@ tagline: CS 6649 TRAA
 
 1. Implementation of JavaBayes
 2. Implementation of NeticaJ library
+3. [project on github](https://github.com/zhou-dong/probabilistic-graphical-models)
 
 ---
 
